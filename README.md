@@ -1,2 +1,1 @@
-# mrqa.github.io
-Machine Reading for Question Answering Website
+Machine Reading for Question Answering (MRQA) Workshop Website
