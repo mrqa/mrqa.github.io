@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Organization
-order: 3
+order: 2
 ---
 ## Steering Committee:
 - [Jonathan Berant](http://www.cs.tau.ac.il/~joberant/), Tel-Aviv University
