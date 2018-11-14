@@ -3,38 +3,43 @@ layout: main
 title: Home
 order: 1
 ---
-Machine Reading for Question Answering (MRQA) has become an important testbed for 
-evaluating how well computer systems understand human language,
-as well as a crucial technology for industry applications such as search engines and dialog systems.
-The research community has recently created a multitude of large-scale datasets 
-over text sources such as 
-Wikipedia ([WikiReading](http://www.aclweb.org/anthology/P16-1145), 
-[SQuAD](https://aclweb.org/anthology/D16-1264),
-[WikiHop](https://arxiv.org/pdf/1710.06481.pdf)), 
-news and other articles ([CNN/Daily Mail](https://arxiv.org/pdf/1506.03340.pdf), 
-[NewsQA](https://arxiv.org/pdf/1611.09830.pdf),
-[RACE](http://aclweb.org/anthology/D17-1082)),
-fictional stories ([MCTest](http://aclweb.org/anthology/D/D13/D13-1020.pdf), 
-[CBT](https://arxiv.org/pdf/1511.02301.pdf),
-[NarrativeQA](https://arxiv.org/pdf/1712.07040.pdf)), 
-and general web sources ([MS MARCO](https://arxiv.org/pdf/1611.09268.pdf), 
-[TriviaQA](http://www.aclweb.org/anthology/P17-1147), 
-[SearchQA](https://arxiv.org/pdf/1704.05179.pdf)).
-These new datasets have in turn inspired an even wider array of new question answering systems.
 
-This workshop will gather researchers to address and discuss important research topics
-surrounding MRQA, including:
-- **Accuracy**: How can we make MRQA systems more accurate?
-- **Interpretability**: How can systems provide rationales for their predictions?
-- **Speed and Scalability**: How can systems scale to consider larger contexts, from long documents to the whole web?
-- **Robustness**: How can systems generalize to other datasets and settings beyond the training distribution?
-- **Dataset Creation**: What are effective methods for building new MRQA datasets?
-- **Dataset Analysis**: What challenges do current MRQA datasets pose?
-- **Error Analysis**: What types of questions or documents are particularly challenging for existing systems?
+## Overview
+
+Machine Reading for Question Answering (MRQA) has become an important testbed for evaluating how well computer systems understand human language, as well as a crucial technology for industry applications such as search engines and dialogue systems. Successful MRQA systems must deal with a wide range of natural language phenomena, such as lexical semantics, paraphrasing/entailment, coreference, and pragmatic reasoning, to answer questions based on text. 
+
+Recognizing the potential of MRQA as a comprehensive language understanding benchmark, the research community has recently created a multitude of large-scale datasets over text sources such as Wikipedia, news articles, fictional stories, and general web sources. These new datasets have in turn inspired an even wider array of new question answering systems.
+
+Despite this rapid progress, there is still much to understand about these datasets and systems. While in-domain model accuracy is rapidly improving on these datasets, generalization suffers when models are evaluated on new domains and datasets. Focusing only on accuracy also obscures other important desiderata, including model interpretability, scalability, and robustness to perturbations. Similarly, the diversity of recent datasets calls for an analysis of the various natural language phenomena (coreference, paraphrasing, entailment, multi-hop reasoning) that these datasets present. 
+
+Towards this goal, this year we will seek submissions in two tracks: a research track and a new shared task track. Our shared task is specifically designed to test the generalization abilities of MRQA systems (see more details below).
+
+
+## Research Track
+
+This track is broad in scope and seeks submissions in areas including, but not limited to:
+- **Accuracy**: How can we improve overall accuracy on MRQA?
+- **Interpretability**: Can a models provide rationales for their predictions? In what ways can attention over the document be helpful?  Can models generate derivations that justify their predictions?
+- **Speed / Scalability**: Can models scale to consider multiple, lengthy documents, or the entire web as an information source?  Similarly, can they scale to consider richer answer spaces, such as sets of spans or entities, instead of a single answer one?
+- **Robustness**: Can models guarantee good performance on certain types of questions or documents? Can they behave reliably and consistently on similar examples?
+- **Creation, analysis and evaluation of datasets**: What kinds of datasets do we need? How can we create them efficiently? Can we quantify the challenges posed by each dataset?
+- **Analysis of model predictions**: What types of questions or documents are particularly challenging for existing systems?
 
 
 ## Shared Task
-This year, we will be hosting a shared task. Details will be out soon.
+
+This track will seek submissions for MRQA models which can generalize to example distributions different from the distribution in the training dataset. A truly effective question answering system should do more than merely interpolate from the training set to answer test examples drawn from the same distribution: it should also be able to extrapolate to out-of-distribution examples — a significantly harder challenge. 
+The task itself will focus on extractive question answering. Given a question and context passage, models must provide an answer as a span in the original document or “No Answer”, meaning the question cannot be answered with the context. Our evaluation dataset will differ in many ways from the training data, including:
+
+- **Passage distribution**: Test examples may come from different sources (e.g., science, news, novels, medical abstracts, etc) with pronounced syntactic and lexical differences.
+- **Question distribution**: Test examples may emphasize different styles of question and answer types (e.g., factoid, entity-centric, relational, other tasks reformulated as QA, etc).
+- **Joint distribution**: Test examples may vary according to the relationship of the question to the passage (e.g., collected independent vs. dependent of evidence, multi-hop, unanswerable, etc).
+
+We plan to design ten evaluation datasets, which will include existing MRQA datasets, QA datasets modified to fit the shared task paradigm, and reductions of related NLP tasks, such as relation extraction, to question answering. Systems will be ranked by their performance over all datasets. Participants will be given small development datasets for up to five of the test tasks, so that they can evaluate their models. However, no development data will be released for the other test tasks, to prevent participants from devising specialized techniques for the particular set of test tasks we have chosen. 
+
+The shared task will have two settings: one in which models can only be trained on provided training data (“Closed”), and one in which any training data may be used (“Open”). For the Closed setting, we will provide a training dataset, consisting of examples pooled from several public datasets. Participants are expected to only use this data for training models. For both settings, participants are allowed and encouraged to use off-the-shelf tools for linguistic annotations (e.g. POS taggers, syntactic parsers), as well as any publicly available unlabeled data and models derived from these (e.g. word vectors, pre-trained language models).
+
+Participants in the shared task will be expected to submit a pre-trained model, which we will run on our hidden test data, as well as a paper describing their system. With this shared task, we hope to guide efforts towards learning robust models and architectures.
 
 
 ## Invited Speakers:

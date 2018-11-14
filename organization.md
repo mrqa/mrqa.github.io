@@ -16,4 +16,38 @@ order: 3
 - [Minjoon Seo](https://seominjoon.github.io/), NAVER & University of Washington
 - [Alon Talmor](https://www.alontalmor.com/), Tel Aviv University
 
+## Program Committee:
+ 
+- Mor Geva, Tel Aviv University
+- Jing Liu, Baidu
+- Jinhyuk Lee, Korea University
+- Huan Sun, Oregon State University
+- Danish Contractor, IBM
+- Jonathan Herzig, Tel Aviv University
+- Hoifung Poon, Microsoft
+- Kevin Gimpel, TTIC
+- Mrinmaya Sachan, Carnegie Mellon University
+- Minghao Hu, NUDT
+- Zhilin Yang, Carnegie Mellon University
+- Peng Qi, Stanford University
+- Siva Reddy, Stanford University
+- Rajarshi Das, UMass
+- Xiaodong Liu, Microsoft
+- Sameer Singh, UC Irvine
+- Sewon Min, University of Washington
+- Nan Duan, Microsoft
+- Matt Gardner, Allen Institute for AI
+- Ni Lao, Google
+- Scott Yih, Allen Institute for AI
+- Quan Wang, Baidu
+- Johannes Welbl, University College London
+- Panupong Pasupat, Stanford University
+- Saizheng Zhang, University of Montreal
+- Adams Wei Yu, Carnegie Mellon University
+- Semih Yagcioglu, Hacettepe University
+- Chenguang Zhu, Microsoft
+- Mausam, IIT
+- Mohit Iyyer, UMass
+
+
 {: .two-column}
