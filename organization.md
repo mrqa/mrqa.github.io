@@ -48,6 +48,7 @@ order: 2
 - Chenguang Zhu, Microsoft
 - Mausam, IIT
 - Mohit Iyyer, UMass
+- Omer Levy, Facebook & Tel Aviv University
 
 
 {: .two-column}
