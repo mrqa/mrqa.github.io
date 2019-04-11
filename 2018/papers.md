@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: main_2018
 title: Accepted Papers
 order: 2
 ---

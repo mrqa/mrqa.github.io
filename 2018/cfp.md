@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: main_2018
 title: Call for Papers
 order: 4
 ---
