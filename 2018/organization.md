@@ -1,5 +1,5 @@
 ---
-layout: main-2018
+layout: main
 title: Organization
 order: 3
 ---
