@@ -14,3 +14,7 @@ keywords:    "workshop, machine reading, question answering, reading comprehensi
 description: "The official website for the Workshop on Machine Reading for Question Answering"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
+
+collections:
+  - pages_2019
+  - pages_2018

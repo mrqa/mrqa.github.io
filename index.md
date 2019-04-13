@@ -2,6 +2,7 @@
 layout: main
 title: Home
 order: 1
+collection: pages_2019
 ---
 
 ## Overview
