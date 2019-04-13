@@ -30,7 +30,7 @@
           <a class="navbar-brand" href="/">MRQA</a>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
-              {% assign sorted_pages = site.pages | sort:"order" %}
+              {% assign sorted_pages = site.pages | sort:"order" | where:"collection","pages_2019" %}
               {% for p in sorted_pages %}
                 {% if p.title == page.title %}
                 <li class="nav-item active">
