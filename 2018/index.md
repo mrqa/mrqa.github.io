@@ -1,7 +1,8 @@
 ---
-layout: main
+layout: main-2018
 title: Home
 order: 1
+collection: pages_2018
 ---
 Machine Reading for Question Answering (MRQA) has become an important testbed for 
 evaluating how well computer systems understand human language,

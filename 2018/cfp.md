@@ -1,7 +1,8 @@
 ---
-layout: main
+layout: main-2018
 title: Call for Papers
 order: 4
+collection: pages_2018
 ---
 ## Call for Papers
 Machine Reading for Question Answering (MRQA) has become an important testbed for 

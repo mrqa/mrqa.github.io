@@ -1,7 +1,8 @@
 ---
-layout: main
+layout: main-2018
 title: Organization
 order: 3
+collection: pages_2018
 ---
 ## Steering Committee
 - [Antoine Bordes](https://research.fb.com/people/bordes-antoine/), Facebook AI Research

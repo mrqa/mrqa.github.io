@@ -1,7 +1,8 @@
 ---
-layout: main
+layout: main-2018
 title: Accepted Papers
 order: 2
+collection: pages_2018
 ---
 Proceedings are now online [here](https://aclanthology.info/volumes/proceedings-of-the-workshop-on-machine-reading-for-question-answering).
 
