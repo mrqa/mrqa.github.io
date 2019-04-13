@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Papers
+title: Accepted Papers
 order: 4
 collection: pages_2019
 ---
