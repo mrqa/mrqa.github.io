@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Past
+title: Past Workshops
 order: 5
 collection: pages_2019
 ---
