@@ -1,8 +1,9 @@
 ---
-layout: main
+layout: main-rc
 title: Home
 order: 1
 collection: pages_2019_rc
+permalink: /rc
 ---
 
 ## Overview
@@ -29,18 +30,11 @@ This track is broad in scope and seeks submissions in areas including, but not l
 
 ## Shared Task
 
-This track will seek submissions for MRQA models which can generalize to example distributions different from the distribution in the training dataset. A truly effective question answering system should do more than merely interpolate from the training set to answer test examples drawn from the same distribution: it should also be able to extrapolate to out-of-distribution examples — a significantly harder challenge.
-The task itself will focus on extractive question answering. Given a question and context passage, models must provide an answer as a span in the original document or “No Answer”, meaning the question cannot be answered with the context. Our evaluation dataset will differ in many ways from the training data, including:
+This year, we are introducing a new MRQA Shared Task, which tests whether existing MRQA systems can generalize beyond the datasets on which they were trained. A truly effective question answering system should do more than merely interpolate from the training set to answer test examples drawn from the same distribution: it should also be able to extrapolate to test examples drawn from different distributions.
 
-- **Passage distribution**: Test examples may come from different sources (e.g., science, news, novels, medical abstracts, etc) with pronounced syntactic and lexical differences.
-- **Question distribution**: Test examples may emphasize different styles of question and answer types (e.g., factoid, entity-centric, relational, other tasks reformulated as QA, etc).
-- **Joint distribution**: Test examples may vary according to the relationship of the question to the passage (e.g., collected independent vs. dependent of evidence, multi-hop, unanswerable, etc).
+Participants in the shared task will submit MRQA systems trained on a specified training dataset pooled from six existing datasets: SQuAD, TriviaQA, HotpotQA, NaturalQuestions, NewsQA, and SearchQA. Systems will be evaluated on their generalization to ten different test datasets. The test datasets will be in the same format as the training data, but may have different sources of document context (e.g., biology research papers) and questions (e.g., written by domain experts). We will release development sets for five of the test datasets, while keeping the other five test datasets hidden. This gives teams a way to measure progress during development, while discouraging them from designing specialized solutions for the particular test datasets we have chosen.
 
-We plan to design ten evaluation datasets, which will include existing MRQA datasets, QA datasets modified to fit the shared task paradigm, and reductions of related NLP tasks, such as relation extraction, to question answering. Systems will be ranked by their performance over all datasets. Participants will be given small development datasets for up to five of the test tasks, so that they can evaluate their models. However, no development data will be released for the other test tasks, to prevent participants from devising specialized techniques for the particular set of test tasks we have chosen.
-
-The shared task will have two settings: one in which models can only be trained on provided training data (“Closed”), and one in which any training data may be used (“Open”). For the Closed setting, we will provide a training dataset, consisting of examples pooled from several public datasets. Participants are expected to only use this data for training models. For both settings, participants are allowed and encouraged to use off-the-shelf tools for linguistic annotations (e.g. POS taggers, syntactic parsers), as well as any publicly available unlabeled data and models derived from these (e.g. word vectors, pre-trained language models).
-
-Participants in the shared task will be expected to submit a pre-trained model, which we will run on our hidden test data, as well as a paper describing their system. With this shared task, we hope to guide efforts towards learning robust models and architectures.
+For more information, please see the [shared task page](shared).
 
 
 ## Invited Speakers:
