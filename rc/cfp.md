@@ -66,7 +66,7 @@ Instructions on how to apply for financial assistance
 will be provided after paper acceptance decisions have been finalized.
 
 ## Best Paper Award
-An award of $500 will be given to the best paper of MRQA 2018.
+An award of $500 will be given to the best paper of MRQA 2019.
 
 ## Submission Guidelines
 We seek submissions of at least 4 and at most 8 pages, not including citations.
