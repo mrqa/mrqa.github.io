@@ -18,3 +18,4 @@ touch_icon:  #put a path like: "img/apple-touch-icon.png"
 collections:
   - pages_2019
   - pages_2018
+  - pages_2019_rc
