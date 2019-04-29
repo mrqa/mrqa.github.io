@@ -1,7 +1,7 @@
 ---
 layout: main-rc
 title: Shared Task
-order: 4
+order: 2
 collection: pages_2019_rc
 permalink: /rc/shared
 ---
@@ -20,9 +20,10 @@ Each participant will submit a single QA system trained on the provided training
 We will then privately evaluate each system on the hidden test data.
 
 
-## Datasets
+## Training Datasets
 
-All participants are required to use our official training corpus, which consists of examples pooled from the following datasets:
+All participants are required to use our official training corpus (see our [GitHub repository](https://github.com/mrqa/MRQA-Shared-Task-2019) for details), 
+which consists of examples pooled from the following datasets:
 - [SQuAD](https://arxiv.org/abs/1606.05250) (Rajpurkar et al., 2016)
 - [NewsQA](https://arxiv.org/abs/1611.09830) (Trischler et al., 2016)
 - [TriviaQA](https://arxiv.org/abs/1705.03551) (Joshi et al., 2017)
@@ -33,6 +34,9 @@ All participants are required to use our official training corpus, which consist
 **No other question answering data may be used for training.** 
 We allow and encourage participants to use off-the-shelf tools for linguistic annotation (e.g. POS taggers, syntactic parsers), 
 as well as any publicly available unlabeled data and models derived from these (e.g. word vectors, pre-trained language models).
+
+
+## Dev and Test Datasets
 
 For development, we will release development datasets for **five** out of the ten test datasets:
 - TBA!
@@ -56,18 +60,16 @@ Time and resources permitting, we plan to run human evaluation on the top few sy
 Human evaluators will directly judge whether top systems’ predictions are good answers to the test questions.
 
 
-## Baselines
-
-TBA!
-
 ## Data format and submission instructions
 
-TBA!
+We detail data format and submission instructions, along with our baseline models, 
+in this [GitHub repository](https://github.com/mrqa/MRQA-Shared-Task-2019).
+For any inquiry about the shared task and the submission, please make a new **issue** in the repository.
 
 
 ## Important dates
 
-- **April 29**: Training datasets and baselines released
+- **April 29**: Training datasets released
 - **May 27**: Development datasets released
 - **July 29**: Deadline for model submission
 - **August 12**: Test results announced

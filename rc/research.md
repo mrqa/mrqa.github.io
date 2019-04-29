@@ -1,11 +1,11 @@
 ---
 layout: main-rc
-title: Call for Papers
+title: Research Track
 order: 3
 collection: pages_2019_rc
-permalink: /rc/cfp
+permalink: /rc/research
 ---
-## Call for Papers
+## Research Track Overview
 Machine Reading for Question Answering (MRQA) has become an important testbed for 
 evaluating how well computer systems understand human language,
 as well as a crucial technology for industry applications such as search engines and dialog systems.

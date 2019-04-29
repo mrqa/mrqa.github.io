@@ -16,24 +16,29 @@ Despite this rapid progress, there is still much to understand about these datas
 Towards this goal, this year we will seek submissions in two tracks: a research track and a new shared task track. Our shared task is specifically designed to test the generalization abilities of MRQA systems (see more details below).
 
 
+## Shared Task
+
+This year, we are introducing a new MRQA Shared Task, which tests whether existing MRQA systems can generalize beyond the datasets on which they were trained. 
+A truly effective question answering system should do more than merely interpolate from the training set to answer test examples drawn from the same distribution: it should also be able to extrapolate to test examples drawn from different distributions.
+
+Participants in the shared task will submit MRQA systems trained on a specified training dataset pooled from six existing datasets. 
+Systems will be evaluated on their generalization to ten different test datasets. 
+
+For more information, please see the [Shared Task page](shared).
+
 ## Research Track
 
 This track is broad in scope and seeks submissions in areas including, but not limited to:
-- **Accuracy**: How can we improve overall accuracy on MRQA?
-- **Interpretability**: Can a models provide rationales for their predictions? In what ways can attention over the document be helpful?  Can models generate derivations that justify their predictions?
-- **Speed / Scalability**: Can models scale to consider multiple, lengthy documents, or the entire web as an information source?  Similarly, can they scale to consider richer answer spaces, such as sets of spans or entities, instead of a single answer one?
-- **Robustness**: Can models guarantee good performance on certain types of questions or documents? Can they behave reliably and consistently on similar examples?
-- **Creation, analysis and evaluation of datasets**: What kinds of datasets do we need? How can we create them efficiently? Can we quantify the challenges posed by each dataset?
-- **Analysis of model predictions**: What types of questions or documents are particularly challenging for existing systems?
+- Accuracy
+- Interpretability
+- Speed / Scalability
+- Robustness
+- Creation, analysis and evaluation of datasets
+- Analysis of model predictions
+
+For more information, please see the [Research Track's call for paper](research).
 
 
-## Shared Task
-
-This year, we are introducing a new MRQA Shared Task, which tests whether existing MRQA systems can generalize beyond the datasets on which they were trained. A truly effective question answering system should do more than merely interpolate from the training set to answer test examples drawn from the same distribution: it should also be able to extrapolate to test examples drawn from different distributions.
-
-Participants in the shared task will submit MRQA systems trained on a specified training dataset pooled from six existing datasets: SQuAD, TriviaQA, HotpotQA, NaturalQuestions, NewsQA, and SearchQA. Systems will be evaluated on their generalization to ten different test datasets. The test datasets will be in the same format as the training data, but may have different sources of document context (e.g., biology research papers) and questions (e.g., written by domain experts). We will release development sets for five of the test datasets, while keeping the other five test datasets hidden. This gives teams a way to measure progress during development, while discouraging them from designing specialized solutions for the particular test datasets we have chosen.
-
-For more information, please see the [shared task page](shared).
 
 
 ## Invited Speakers:
