@@ -1,7 +1,7 @@
 ---
 layout: main-rc
 title: Past Workshops
-order: 4
+order: 5
 collection: pages_2019_rc
 permalink: /rc/past
 ---

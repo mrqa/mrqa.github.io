@@ -2,7 +2,7 @@
 layout: main-rc
 title: Research Track
 order: 3
-collection: pages_2019_rc_
+collection: pages_2019_rc
 permalink: /rc/research
 ---
 ## Research Track Overview
