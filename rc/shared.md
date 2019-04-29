@@ -36,7 +36,7 @@ We allow and encourage participants to use off-the-shelf tools for linguistic an
 as well as any publicly available unlabeled data and models derived from these (e.g. word vectors, pre-trained language models).
 
 
-## Dev and Test Datasets
+## Dev & Test Datasets
 
 For development, we will release development datasets for **five** out of the ten test datasets:
 - TBA!
