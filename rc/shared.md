@@ -69,7 +69,7 @@ For any inquiry about the shared task and the submission, please make a new **is
 
 ## Important dates
 
-- **April 29**: Training datasets released
+- **May 1**: Training datasets released
 - **May 13**: Development datasets released
 - **July 29**: Deadline for model submission
 - **August 12**: Test results announced
