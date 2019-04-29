@@ -23,6 +23,9 @@ A truly effective question answering system should do more than merely interpola
 
 Participants in the shared task will submit MRQA systems trained on a specified training dataset pooled from six existing datasets. 
 Systems will be evaluated on their generalization to ten different test datasets. 
+The test datasets will be in the same format as the training data, but may have different sources of document context (e.g., biology research papers) and questions (e.g., written by domain experts). 
+We will release development sets for five of the test datasets, while keeping the other five test datasets hidden. 
+This gives teams a way to measure progress during development, while discouraging them from designing specialized solutions for the particular test datasets we have chosen.
 
 For more information, please see the [Shared Task page](shared).
 
@@ -36,8 +39,7 @@ This track is broad in scope and seeks submissions in areas including, but not l
 - Creation, analysis and evaluation of datasets
 - Analysis of model predictions
 
-For more information, please see the [Research Track's call for paper](research).
-
+We will release a call for paper soon.
 
 
 

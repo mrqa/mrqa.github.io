@@ -1,7 +1,7 @@
 ---
 layout: main-rc
 title: Organization
-order: 4
+order: 3
 collection: pages_2019_rc
 permalink: /rc/organization
 ---
