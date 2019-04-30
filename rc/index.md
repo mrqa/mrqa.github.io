@@ -12,8 +12,8 @@ In a typical MRQA setting, a system must answer a question by reading one more m
 Successful MRQA systems must understand a wide range of natural language phenomena, and a wide variety of question and document types.
 While recent progress on benchmark datasets has been impressive, models are still primarily evaluated on in-domain accuracy.
 It remains challenging to
-build MRQA systems that generalize across domains
-([Chen et al., 2017](https://arxiv.org/pdf/1704.00051.pdf), [Yogatama et al., 2019](https://arxiv.org/pdf/1901.11373.pdf))
+build MRQA systems that generalize to new test distributions
+([Chen et al., 2017](https://arxiv.org/pdf/1704.00051.pdf), [Levy et al., 2017](http://nlp.cs.washington.edu/zeroshot/zeroshot.pdf), [Yogatama et al., 2019](https://arxiv.org/pdf/1901.11373.pdf))
 and are robust to test-time perturbations
 ([Jia and Liang, 2017](https://arxiv.org/pdf/1707.07328.pdf), [Ribeiro et al., 2018](https://homes.cs.washington.edu/~marcotcr/acl18.pdf)).
 
