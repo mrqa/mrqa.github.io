@@ -52,10 +52,10 @@ Can we guarantee good performance on certain types of questions or documents?
 - **Error Analysis**: What types of questions or documents are particularly challenging for existing systems?
 
 ## Important Dates
-- Deadline for submission: TBA
-- Notification of acceptance: TBA
-- Deadline for camera-ready version: TBA
-- Workshop Date: Thursday, TBA
+- **August 30, 2019**: Deadline for submission
+- **September 16, 2019**: Notification of acceptance
+- **September 30, 2019**: Deadline for camera-ready version
+- **TBD**: Workshop Date
 
 All submission deadlines are 11:59 PM GMT -12 (anywhere in the world). 
 

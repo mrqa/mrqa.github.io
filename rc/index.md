@@ -47,7 +47,7 @@ This track is broad in scope and seeks submissions in areas including, but not l
 - Creation, analysis and evaluation of datasets
 - Analysis of model predictions
 
-We will release a call for papers soon.
+For more information, please see the [Research Track page](research).
 
 ## Invited Speakers:
 - [Antoine Bordes](https://research.fb.com/people/bordes-antoine/), Facebook AI Research

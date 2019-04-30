@@ -6,15 +6,16 @@ collection: pages_2019_rc
 permalink: /rc/shared
 ---
 ## Shared Task Overview
-The 2019 MRQA Shared Task focuses on extractive question answering. 
-Given a question and context passage, systems must find the word or phrase in the document that best answers the question. 
-While this format is somewhat restrictive, it allows us to leverage many existing datasets, and its simplicity helps us focus on out-of-domain generalization, instead of other important but orthogonal challenges. 
-
-We release an official training dataset containing examples from existing extractive QA datasets, and evaluate submitted models on ten hidden test datasets. 
-Both train and test datasets have the same format described above, but may differ in some of the following ways:
+The 2019 MRQA Shared Task focuses on **generalization**.
+We release an official training dataset containing examples from existing QA datasets, and evaluate submitted models on ten hidden QA test datasets. 
+Train and test datasets may differ in some of the following ways:
 - **Passage distribution**: Test examples may involve passages from different sources (e.g., science, news, novels, medical abstracts, etc) with pronounced syntactic and lexical differences.
 - **Question distribution**: Test examples may emphasize different styles of questions (e.g., entity-centric, relational, other tasks reformulated as QA, etc) which may come from different sources (e.g., crowdworkers, domain experts, exam writers, etc.)
 - **Joint distribution**: Test examples may vary according to the relationship of the question to the passage (e.g., collected independent vs. dependent of evidence, multi-hop, etc)
+
+Both train and test datasets have the same format and are *extractive*. 
+That is, given a question and context passage, systems must find the word or the phrase in the document that best answers the question. 
+While this format is somewhat restrictive, it allows us to leverage many existing datasets, and its simplicity helps us focus on out-of-domain generalization, instead of other important but orthogonal challenges. 
 
 Each participant will submit a single QA system trained on the provided training data. 
 We will then privately evaluate each system on the hidden test data.
@@ -39,7 +40,7 @@ as well as any publicly available unlabeled data and models derived from these (
 ## Dev & Test Datasets
 
 For development, we will release development datasets for **five** out of the ten test datasets:
-- TBA!
+- TBA on May 13
 
 We will keep the other five test datasets hidden until the conclusion of the shared task. 
 We hope this will prevent teams from building solutions that are specific to our test datasets, 
@@ -69,10 +70,10 @@ For any inquiry about the shared task and the submission, please make a new **is
 
 ## Important dates
 
-- **May 1**: Training datasets released
-- **May 13**: Development datasets released
-- **July 29**: Deadline for model submission
-- **August 12**: Test results announced
-- **August 30**: System description paper submission deadline
-- **September 16**: Acceptance notification and reviews shared with authors
-- **September 30**: System description paper camera-ready deadline
+- **May 1, 2019**: Training datasets released [[link](https://github.com/mrqa/MRQA-Shared-Task-2019#training-data)]
+- **May 13, 2019**: Development datasets released
+- **July 29, 2019**: Deadline for model submission
+- **August 12, 2019**: Test results announced
+- **August 30, 2019**: System description paper submission deadline
+- **September 16, 2019**: Acceptance notification and reviews shared with authors
+- **September 30, 2019**: System description paper camera-ready deadline
