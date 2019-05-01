@@ -70,7 +70,7 @@ For any inquiry about the shared task and the submission, please make a new **is
 
 ## Important Dates
 
-- **May 1, 2019**: Training datasets released [[link](https://github.com/mrqa/MRQA-Shared-Task-2019#training-data)]
+- **May 1, 2019**: [Training datasets released](https://github.com/mrqa/MRQA-Shared-Task-2019#training-data)
 - **May 13, 2019**: Development datasets released
 - **July 29, 2019**: Deadline for model submission
 - **August 12, 2019**: Test results announced
@@ -79,3 +79,6 @@ For any inquiry about the shared task and the submission, please make a new **is
 - **September 30, 2019**: System description paper camera-ready deadline
 
 All submission deadlines are 11:59 PM GMT -12 (anywhere in the world).
+
+## Questions?
+For any questions regarding our shared task, please use [Github issues](https://github.com/mrqa/MRQA-Shared-Task-2019/issues). We are here to answer your questions and look forward to your submissions!
