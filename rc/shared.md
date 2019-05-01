@@ -61,14 +61,14 @@ Time and resources permitting, we plan to run human evaluation on the top few sy
 Human evaluators will directly judge whether top systems’ predictions are good answers to the test questions.
 
 
-## Data format and submission instructions
+## Data Format and Submission Instructions
 
 We detail data format and submission instructions, along with our baseline models,
 in this [GitHub repository](https://github.com/mrqa/MRQA-Shared-Task-2019).
 For any inquiry about the shared task and the submission, please make a new **issue** in the repository.
 
 
-## Important dates
+## Important Dates
 
 - **May 1, 2019**: Training datasets released [[link](https://github.com/mrqa/MRQA-Shared-Task-2019#training-data)]
 - **May 13, 2019**: Development datasets released
