@@ -56,6 +56,13 @@ For more information, please see the [Research Track page](research).
 - [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/), University of Washington
 - [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/), Carnegie Mellon University
 
+## Financial Assistance
+We can offer partial financial aid to student authors who demonstrate significant financial need.
+Instructions on how to apply for financial assistance will be provided after paper acceptance decisions have been finalized.
+
+## Best Paper Award
+An award of $500 will be given to the best paper of MRQA 2019.
+
 ## Steering Committee:
 - [Jonathan Berant](http://www.cs.tau.ac.il/~joberant/), Tel-Aviv University
 - [Percy Liang](https://cs.stanford.edu/~pliang/), Stanford University
