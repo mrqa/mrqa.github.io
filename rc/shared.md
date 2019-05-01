@@ -13,9 +13,7 @@ Train and test datasets may differ in some of the following ways:
 - **Question distribution**: Test examples may emphasize different styles of questions (e.g., entity-centric, relational, other tasks reformulated as QA, etc) which may come from different sources (e.g., crowdworkers, domain experts, exam writers, etc.)
 - **Joint distribution**: Test examples may vary according to the relationship of the question to the passage (e.g., collected independent vs. dependent of evidence, multi-hop, etc)
 
-Both train and test datasets have the same format and are *extractive*.
-That is, given a question and context passage, systems must find the word or the phrase in the document that best answers the question.
-While this format is somewhat restrictive, it allows us to leverage many existing datasets, and its simplicity helps us focus on out-of-domain generalization, instead of other important but orthogonal challenges.
+Both train and test datasets have the same format and this year we focus on extractive question answering. That is, given a question and context passage, systems must find a segment of text, or span in the document that best answers the question. While this format is somewhat restrictive, it allows us to leverage many existing datasets, and its simplicity helps us focus on out-of-domain generalization, instead of other important but orthogonal challenges.
 
 Each participant will submit a single QA system trained on the provided training data.
 We will then privately evaluate each system on the hidden test data.
@@ -78,7 +76,7 @@ For any inquiry about the shared task and the submission, please make a new **is
 - **September 16, 2019**: Acceptance notification and reviews shared with authors
 - **September 30, 2019**: System description paper camera-ready deadline
 
-All submission deadlines are 11:59 PM GMT -12 (anywhere in the world).
+All submission deadlines are 11:59 PM GMT-12 (anywhere in the world).
 
 ## Questions?
 For any questions regarding our shared task, please use [Github issues](https://github.com/mrqa/MRQA-Shared-Task-2019/issues). We are here to answer your questions and looking forward to your submissions!
