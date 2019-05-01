@@ -11,15 +11,15 @@ permalink: /rc/organization
 - [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz), University of Washington
 
 ## Organizing Committee:
-- [Danqi Chen](http://cs.stanford.edu/people/danqi/), Princeton University
+- [Danqi Chen](http://cs.stanford.edu/~danqi), Princeton University
 - [Eunsol Choi](https://homes.cs.washington.edu/~eunsol/home.html), University of Washington
 - [Adam Fisch](https://people.csail.mit.edu/fisch/), MIT
-- [Robin Jia](http://stanford.edu/~robinjia/), Stanford University 
+- [Robin Jia](http://stanford.edu/~robinjia/), Stanford University
 - [Minjoon Seo](https://seominjoon.github.io/), NAVER & University of Washington
 - [Alon Talmor](https://www.alontalmor.com/), Tel Aviv University
 
 ## Program Committee:
- 
+
 - Mor Geva, Tel Aviv University
 - Jing Liu, Baidu
 - Jinhyuk Lee, Korea University

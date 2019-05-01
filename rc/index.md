@@ -17,7 +17,7 @@ build MRQA systems that generalize to new test distributions
 and are robust to test-time perturbations
 ([Jia and Liang, 2017](https://arxiv.org/pdf/1707.07328.pdf), [Ribeiro et al., 2018](https://homes.cs.washington.edu/~marcotcr/acl18.pdf)).
 
-To promote research on MRQA, particularly related to generalization, we seek submissions in two tracks: a research track and a new shared task track.
+To promote research on MRQA, particularly related to generalization, we seek submissions in two tracks: [a research track](research) and [**a new shared task track**](shared).
 Our shared task is specifically designed to test how well MRQA systems can generalize to new domains (see more details below).
 
 
@@ -25,7 +25,7 @@ Our shared task is specifically designed to test how well MRQA systems can gener
 This year, we are introducing a new MRQA Shared Task, which tests whether existing MRQA systems can generalize beyond the datasets on which they were trained.
 A truly effective question answering system should do more than merely interpolate from the training set to answer test examples drawn from the same distribution: it should also be able to extrapolate to test examples drawn from different distributions.
 
-Participants in the shared task will submit MRQA systems trained on a specified training dataset pooled from six existing large-scale datasets.
+Participants in the shared task will submit MRQA systems trained on a specified training dataset pooled from *six existing large-scale datasets*.
 Systems will be evaluated on their *generalization to ten different test datasets.*
 The test datasets will be in the same format as the training data, but may have different sources of document context (e.g., biology research papers) and questions (e.g., written by domain experts).
 We will release development sets for five of the test datasets, while keeping the other five test datasets hidden.
@@ -42,7 +42,7 @@ Similarly, the diversity of recent datasets calls for an analysis of the various
 This track is broad in scope and seeks submissions in areas including, but not limited to:
 - Improving overall accuracy
 - Interpretability
-- Speed / Scalability
+- Speed & Scalability
 - Robustness
 - Creation, analysis and evaluation of datasets
 - Analysis of model predictions
@@ -69,7 +69,7 @@ An award of $500 will be given to the best paper of MRQA 2019.
 - [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz), University of Washington
 
 ## Organizing Committee:
-- [Danqi Chen](http://cs.stanford.edu/people/danqi/), Princeton University
+- [Danqi Chen](http://cs.stanford.edu/~danqi), Princeton University
 - [Eunsol Choi](https://homes.cs.washington.edu/~eunsol/home.html), University of Washington
 - [Adam Fisch](https://people.csail.mit.edu/fisch/), MIT
 - [Robin Jia](http://stanford.edu/~robinjia/), Stanford University
