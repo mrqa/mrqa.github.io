@@ -73,7 +73,7 @@ For any inquiry about the shared task and the submission, please make a new **is
 
 ## Important Dates
 
-- **May 1, 2019**: [Training datasets released](https://github.com/mrqa/MRQA-Shared-Task-2019#training-data)
+- **May 2, 2019**: [Training datasets released](https://github.com/mrqa/MRQA-Shared-Task-2019#training-data)
 - **May 13, 2019**: Development datasets released
 - **July 29, 2019**: Deadline for model submission
 - **August 12, 2019**: Test results announced
