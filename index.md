@@ -7,41 +7,47 @@ collection: pages_2019
 
 ## Overview
 
-Machine Reading for Question Answering (MRQA) has become an important testbed for evaluating how well computer systems understand human language, as well as a crucial technology for industry applications such as search engines and dialogue systems. Successful MRQA systems must deal with a wide range of natural language phenomena, such as lexical semantics, paraphrasing/entailment, coreference, and pragmatic reasoning, to answer questions based on text.
+Machine Reading for Question Answering (MRQA) has become an important testbed for evaluating how well computer systems understand human language, as well as a crucial technology for industry applications such as search engines and dialogue systems.
+In a typical MRQA setting, a system must answer a question by reading one or more context documents.
+Successful MRQA systems must understand a wide range of natural language phenomena, and a wide variety of question and document types.
+While recent progress on benchmark datasets has been impressive, models are still primarily evaluated on in-domain accuracy.
+It remains challenging to
+build MRQA systems that generalize to new test distributions
+([Chen et al., 2017](https://arxiv.org/pdf/1704.00051.pdf), [Levy et al., 2017](http://nlp.cs.washington.edu/zeroshot/zeroshot.pdf), [Yogatama et al., 2019](https://arxiv.org/pdf/1901.11373.pdf))
+and are robust to test-time perturbations
+([Jia and Liang, 2017](https://arxiv.org/pdf/1707.07328.pdf), [Ribeiro et al., 2018](https://homes.cs.washington.edu/~marcotcr/acl18.pdf)).
 
-Recognizing the potential of MRQA as a comprehensive language understanding benchmark, the research community has recently created a multitude of large-scale datasets over text sources such as Wikipedia, news articles, fictional stories, and general web sources. These new datasets have in turn inspired an even wider array of new question answering systems.
-
-Despite this rapid progress, there is still much to understand about these datasets and systems. While in-domain model accuracy is rapidly improving on these datasets, generalization suffers when models are evaluated on new domains and datasets. Focusing only on accuracy also obscures other important desiderata, including model interpretability, scalability, and robustness to perturbations. Similarly, the diversity of recent datasets calls for an analysis of the various natural language phenomena (coreference, paraphrasing, entailment, multi-hop reasoning) that these datasets present.
-
-Towards this goal, this year we will seek submissions in two tracks: a research track and a new shared task track. Our shared task is specifically designed to test the generalization abilities of MRQA systems (see more details below).
-
-
-## Research Track
-
-This track is broad in scope and seeks submissions in areas including, but not limited to:
-- **Accuracy**: How can we improve overall accuracy on MRQA?
-- **Interpretability**: Can a models provide rationales for their predictions? In what ways can attention over the document be helpful?  Can models generate derivations that justify their predictions?
-- **Speed / Scalability**: Can models scale to consider multiple, lengthy documents, or the entire web as an information source?  Similarly, can they scale to consider richer answer spaces, such as sets of spans or entities, instead of a single answer one?
-- **Robustness**: Can models guarantee good performance on certain types of questions or documents? Can they behave reliably and consistently on similar examples?
-- **Creation, analysis and evaluation of datasets**: What kinds of datasets do we need? How can we create them efficiently? Can we quantify the challenges posed by each dataset?
-- **Analysis of model predictions**: What types of questions or documents are particularly challenging for existing systems?
+To promote research on MRQA, particularly related to generalization, we seek submissions in two tracks: [a research track](research) and [**a new shared task track**](shared).
+Our shared task is specifically designed to test how well MRQA systems can generalize to new domains (see more details below).
 
 
 ## Shared Task
+This year, we are introducing a new MRQA Shared Task, which tests whether existing MRQA systems can generalize beyond the datasets on which they were trained.
+A truly effective question answering system should do more than merely interpolate from the training set to answer test examples drawn from the same distribution: it should also be able to extrapolate to test examples drawn from different distributions.
 
-This track will seek submissions for MRQA models which can generalize to example distributions different from the distribution in the training dataset. A truly effective question answering system should do more than merely interpolate from the training set to answer test examples drawn from the same distribution: it should also be able to extrapolate to out-of-distribution examples — a significantly harder challenge.
-The task itself will focus on extractive question answering. Given a question and context passage, models must provide an answer as a span in the original document or “No Answer”, meaning the question cannot be answered with the context. Our evaluation dataset will differ in many ways from the training data, including:
+Participants in the shared task will submit MRQA systems trained on a specified training dataset pooled from *six existing large-scale datasets*.
+Systems will be evaluated on their *generalization to ten different test datasets.*
+The test datasets will be in the same format as the training data, but may have different sources of document context (e.g., biology research papers) and questions (e.g., written by domain experts).
+We will release development sets for five of the test datasets, while keeping the other five test datasets hidden.
+This gives teams a way to measure progress during development, while discouraging them from designing specialized solutions for the particular test datasets we have chosen.
 
-- **Passage distribution**: Test examples may come from different sources (e.g., science, news, novels, medical abstracts, etc) with pronounced syntactic and lexical differences.
-- **Question distribution**: Test examples may emphasize different styles of question and answer types (e.g., factoid, entity-centric, relational, other tasks reformulated as QA, etc).
-- **Joint distribution**: Test examples may vary according to the relationship of the question to the passage (e.g., collected independent vs. dependent of evidence, multi-hop, unanswerable, etc).
+For more information, please see the [Shared Task page](shared).
 
-We plan to design ten evaluation datasets, which will include existing MRQA datasets, QA datasets modified to fit the shared task paradigm, and reductions of related NLP tasks, such as relation extraction, to question answering. Systems will be ranked by their performance over all datasets. Participants will be given small development datasets for up to five of the test tasks, so that they can evaluate their models. However, no development data will be released for the other test tasks, to prevent participants from devising specialized techniques for the particular set of test tasks we have chosen.
+## Research Track
+Despite the rapid progress in MRQA, there is still much to understand about MRQA datasets and systems.
+While in-domain model accuracy is rapidly improving on these datasets, generalization suffers when models are evaluated on new domains and datasets.
+Focusing only on accuracy also obscures other important desiderata, including model interpretability, scalability, and robustness to perturbations.
+Similarly, the diversity of recent datasets calls for an analysis of the various natural language phenomena (coreference, paraphrasing, entailment, multi-hop reasoning) that these datasets present.
 
-The shared task will have two settings: one in which models can only be trained on provided training data (“Closed”), and one in which any training data may be used (“Open”). For the Closed setting, we will provide a training dataset, consisting of examples pooled from several public datasets. Participants are expected to only use this data for training models. For both settings, participants are allowed and encouraged to use off-the-shelf tools for linguistic annotations (e.g. POS taggers, syntactic parsers), as well as any publicly available unlabeled data and models derived from these (e.g. word vectors, pre-trained language models).
+This track is broad in scope and seeks submissions in areas including, but not limited to:
+- Improving overall accuracy
+- Interpretability
+- Speed & Scalability
+- Robustness
+- Creation, analysis and evaluation of datasets
+- Analysis of model predictions
 
-Participants in the shared task will be expected to submit a pre-trained model, which we will run on our hidden test data, as well as a paper describing their system. With this shared task, we hope to guide efforts towards learning robust models and architectures.
-
+For more information, please see the [Research Track page](research).
 
 ## Invited Speakers:
 - [Antoine Bordes](https://research.fb.com/people/bordes-antoine/), Facebook AI Research
@@ -50,13 +56,22 @@ Participants in the shared task will be expected to submit a pre-trained model, 
 - [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/), University of Washington
 - [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/), Carnegie Mellon University
 
+## Awards
+This year we will give two awards, one for each track:
+- An award of $500 for the shared task submission that achieves the highest final evaluation score.
+- An award of $500 for the best research paper at MRQA 2019.
+
+## Financial Assistance
+We can offer partial financial aid to student authors who demonstrate significant financial need.
+Instructions on how to apply for financial assistance will be provided after paper acceptance decisions have been finalized.
+
 ## Steering Committee:
 - [Jonathan Berant](http://www.cs.tau.ac.il/~joberant/), Tel-Aviv University
 - [Percy Liang](https://cs.stanford.edu/~pliang/), Stanford University
 - [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz), University of Washington
 
 ## Organizing Committee:
-- [Danqi Chen](http://cs.stanford.edu/people/danqi/), Princeton University
+- [Danqi Chen](http://cs.stanford.edu/~danqi), Princeton University
 - [Eunsol Choi](https://homes.cs.washington.edu/~eunsol/home.html), University of Washington
 - [Adam Fisch](https://people.csail.mit.edu/fisch/), MIT
 - [Robin Jia](http://stanford.edu/~robinjia/), Stanford University

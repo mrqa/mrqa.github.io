@@ -3,6 +3,7 @@ layout: main
 title: Past Workshops
 order: 5
 collection: pages_2019
+permalink: /past
 ---
 ## Past Workshops
-- [MRQA 2018](2018), collocated with ACL 2018 at Melbourne, Australia
+- [MRQA 2018](/2018), co-located with ACL 2018 at Melbourne, Australia

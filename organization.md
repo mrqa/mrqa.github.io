@@ -1,8 +1,9 @@
 ---
 layout: main
 title: Organization
-order: 2
+order: 4
 collection: pages_2019
+permalink: /organization
 ---
 ## Steering Committee:
 - [Jonathan Berant](http://www.cs.tau.ac.il/~joberant/), Tel-Aviv University
@@ -10,7 +11,7 @@ collection: pages_2019
 - [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz), University of Washington
 
 ## Organizing Committee:
-- [Danqi Chen](http://cs.stanford.edu/people/danqi/), Princeton University
+- [Danqi Chen](http://cs.stanford.edu/~danqi), Princeton University
 - [Eunsol Choi](https://homes.cs.washington.edu/~eunsol/home.html), University of Washington
 - [Adam Fisch](https://people.csail.mit.edu/fisch/), MIT
 - [Robin Jia](http://stanford.edu/~robinjia/), Stanford University
