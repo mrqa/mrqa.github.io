@@ -53,11 +53,16 @@ Note: while the development data can be used for model selection,
 Systems will first be evaluated using automatic metrics: exact match score (EM) and word-level F1-score (F1).
 EM only gives credit for predictions that exactly match the gold answer(s),
 whereas F1 gives partial credit for partial word overlap with the gold answer(s).
-We define a system’s Overall Automatic Score (OAS) to be the (macro-) average F1 score across the ten test datasets.
+We will judge systems primarily on their (macro-) average F1 score across all test datasets.
 
 Time and resources permitting, we plan to run human evaluation on the top few systems with the highest overall score.
 Human evaluators will directly judge whether top systems’ predictions are good answers to the test questions.
 
+After models have been submitted, we will release anonymized, interactive web demos for 
+high-performing models.
+Anyone will be able to pose their own questions to these models,
+in order to better understand their strengths and weaknesses. 
+We will report on these findings at the workshop.
 
 ## Data Format and Submission Instructions
 
