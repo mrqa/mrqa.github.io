@@ -62,3 +62,8 @@ Participants in the shared task will be expected to submit a pre-trained model, 
 - [Robin Jia](http://stanford.edu/~robinjia/), Stanford University
 - [Minjoon Seo](https://seominjoon.github.io/), NAVER & University of Washington
 - [Alon Talmor](https://www.alontalmor.com/), Tel Aviv University
+
+## Sponsors
+![Baidu]({{ "/assets/images/baidu-logo.png" | absolute_url }})
+![Facebook]({{ "/assets/images/facebook-logo.png" | absolute_url }})
+![Naver]({{ "/assets/images/naver-logo.png" | absolute_url }})
