@@ -56,8 +56,10 @@ For more information, please see the [Research Track page](research).
 - [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/), University of Washington
 - [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/), Carnegie Mellon University
 
-## Best Paper Award
-An award of $500 will be given to the best paper of MRQA 2019.
+## Awards
+This year we will give two awards, one for each track:
+- An award of $500 for the shared task submission that achieves the highest final evaluation score.
+- An award of $500 for the best research paper at MRQA 2019.
 
 ## Financial Assistance
 We can offer partial financial aid to student authors who demonstrate significant financial need.

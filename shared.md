@@ -1,9 +1,9 @@
 ---
-layout: main-rc
+layout: main
 title: Shared Task
 order: 2
-collection: pages_2019_rc
-permalink: /rc/shared
+collection: pages_2019
+permalink: /shared
 ---
 ## Shared Task Overview
 The 2019 MRQA Shared Task focuses on **generalization**.
