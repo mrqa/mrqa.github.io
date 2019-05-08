@@ -82,3 +82,5 @@ Instructions on how to apply for financial assistance will be provided after pap
 ![Baidu]({{ "/assets/images/baidu-logo.png" | absolute_url }})
 ![Facebook]({{ "/assets/images/facebook-logo.png" | absolute_url }})
 ![Naver]({{ "/assets/images/naver-logo.png" | absolute_url }})
+
+Please see [Invitation to Sponsor MRQA](docs/sponsorship.pdf) for sponsorship details.
