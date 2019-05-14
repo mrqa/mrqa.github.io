@@ -37,8 +37,16 @@ as well as any publicly available unlabeled data and models derived from these (
 
 ## Dev & Test Datasets
 
-For development, we will release development datasets for **five** out of the ten test datasets:
-- TBA on May 13
+For development, we release [development datasets](https://github.com/mrqa/MRQA-Shared-Task-2019#out-of-domain) for **six** out of the ten test datasets (out-of-domain):
+- [BioASQ](http://bioasq.org/)
+- [DROP](https://arxiv.org/abs/1903.00161) (Dua et al., 2019)
+- [DuoRC](https://arxiv.org/abs/1804.07927) (Saha et al., 2018)
+- [RACE](https://arxiv.org/abs/1704.04683) (Lai et al., 2017)
+- [RelationExtraction](https://arxiv.org/abs/1706.04115) (Levy et al., 2017)
+- [TextbookQA](http://ai2-website.s3.amazonaws.com/publications/CVPR17_TQA.pdf) (Kembhavi et al., 2017)
+
+In addition, we also provide ["in-domain" dev datasets](https://github.com/mrqa/MRQA-Shared-Task-2019#in-domain) to be used for helping devlop models.
+The final testing, however, will only contain out-of-domain data.
 
 We will keep the other five test datasets hidden until the conclusion of the shared task.
 We hope this will prevent teams from building solutions that are specific to our test datasets,
@@ -74,8 +82,8 @@ For any inquiry about the shared task and the submission, please make a new **is
 ## Important Dates
 
 - **May 2, 2019**: [Training datasets released](https://github.com/mrqa/MRQA-Shared-Task-2019#training-data)
-- **May 13, 2019**: Development datasets released
-- **July 29, 2019**: Deadline for model submission
+- **May 13, 2019**: [Development datasets released](https://github.com/mrqa/MRQA-Shared-Task-2019#out-of-domain)
+- **July 29, 2019**: [Deadline for model submission](https://github.com/mrqa/MRQA-Shared-Task-2019#submission)
 - **August 12, 2019**: Test results announced
 - **August 30, 2019**: System description paper submission deadline
 - **September 16, 2019**: Acceptance notification and reviews shared with authors
