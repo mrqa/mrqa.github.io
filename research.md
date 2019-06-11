@@ -62,7 +62,7 @@ and will be accepted if the organizers think the work will benefit from exposure
 Work published elsewhere will not be included in the workshop proceedings. All other submissions will go through a double-blind review process.
 
 ## Important Dates
-- **August 30, 2019**: Deadline for submission
+- **August 19, 2019**: Deadline for submission
 - **September 16, 2019**: Notification of acceptance
 - **September 30, 2019**: Deadline for camera-ready version
 
