@@ -79,6 +79,9 @@ in this [GitHub repository](https://github.com/mrqa/MRQA-Shared-Task-2019).
 For any inquiry about the shared task and the submission, please make a new **issue** in the repository.
 
 
+## Registration
+Please register your team through [this form](https://forms.gle/wBy5Ph3WWgGPw9dY7).
+
 ## Important Dates
 
 - **May 2, 2019**: [Training datasets released](https://github.com/mrqa/MRQA-Shared-Task-2019#training-data)
