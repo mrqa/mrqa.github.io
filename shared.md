@@ -5,7 +5,7 @@ order: 2
 collection: pages_2019
 permalink: /shared
 ---
-## Shared Task Overview
+# MRQA 2019 Shared Task
 The 2019 MRQA Shared Task focuses on **generalization**.
 We release an official training dataset containing examples from existing QA datasets, and evaluate submitted models on ten hidden QA test datasets.
 Train and test datasets may differ in some of the following ways:
