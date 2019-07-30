@@ -17,7 +17,7 @@ build MRQA systems that generalize to new test distributions
 and are robust to test-time perturbations
 ([Jia and Liang, 2017](https://arxiv.org/pdf/1707.07328.pdf), [Ribeiro et al., 2018](https://homes.cs.washington.edu/~marcotcr/acl18.pdf)).
 
-To promote research on MRQA, particularly related to generalization, we seek submissions in two tracks: [a research track](research) and [**a new shared task track**](shared).
+To promote research on MRQA, particularly related to generalization, we seek submissions in two tracks: [a research track](cfp) and [**a new shared task track**](shared).
 Our shared task is specifically designed to test how well MRQA systems can generalize to new domains (see more details below).
 
 
