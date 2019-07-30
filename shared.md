@@ -86,7 +86,7 @@ Please register your team through [this form](https://forms.gle/wBy5Ph3WWgGPw9dY
 
 - **May 2, 2019**: [Training datasets released](https://github.com/mrqa/MRQA-Shared-Task-2019#training-data)
 - **May 13, 2019**: [Development datasets released](https://github.com/mrqa/MRQA-Shared-Task-2019#out-of-domain)
-- **July 29, 2019**: [Deadline for model submission](https://github.com/mrqa/MRQA-Shared-Task-2019#submission)
+- ~~July 29~~ **August 5, 2019**: [Deadline for model submission](https://github.com/mrqa/MRQA-Shared-Task-2019#submission) (we extended the deadline by one week)
 - **August 12, 2019**: Test results announced
 - **August 30, 2019**: System description paper submission deadline
 - **September 16, 2019**: Acceptance notification and reviews shared with authors
