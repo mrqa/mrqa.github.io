@@ -64,10 +64,10 @@ We accept two types of submissions:
 and will be accepted if the organizers think the work will benefit from exposure to the audience of this workshop.
 It does need to be anonymized.
 
-### Dual submissions
+#### Dual submissions
 We allow submissions that are also under review in other venues, but please note that many conferences do not allow it, so make sure that you do not violate their policy as well.
 
-### Anonymity period
+#### Anonymity period
 We do not enforce anonymity period. We do not restrict posting on preprint servers such as arXiv at any point of time.
 
 ## Important Dates
