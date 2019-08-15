@@ -57,9 +57,18 @@ All submissions will be reviewed in a single track, regardless of length.
 Please format your papers using the [standard ACL style files](https://www.emnlp-ijcnlp2019.org/calls/papers#formatting-requirements).
 Submission is electronic via the [Softconf START system](https://www.softconf.com/emnlp2019/ws-MRQA/).
 
-We accept submissions on work published or submitted elsewhere. Recently published work should clearly indicate the original venue,
+We accept two types of submissions:
+ 1. Archival: original work that will be included in the workshop proceedings. It needs to be anonymized and goes through double-blind review process.
+ 2. Non-archival: work published elsewhere. It won't be included in the proceedings. 
+ The authors should clearly indicate the original venue,
 and will be accepted if the organizers think the work will benefit from exposure to the audience of this workshop.
-Work published elsewhere will not be included in the workshop proceedings. All other submissions will go through a double-blind review process.
+It does need to be anonymized.
+
+### Dual submissions
+We allow submissions that are also under review in other venues, but please note that many conferences do not allow it, so make sure that you do not violate their policy as well.
+
+### Anonymity period
+We do not enforce anonymity period. We do not restrict posting on preprint servers such as arXiv at any point of time.
 
 ## Important Dates
 - **August 19, 2019**: Deadline for submission
