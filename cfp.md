@@ -62,7 +62,7 @@ We accept two types of submissions:
  2. Non-archival: work published elsewhere. It won't be included in the proceedings. 
  The authors should clearly indicate the original venue,
 and will be accepted if the organizers think the work will benefit from exposure to the audience of this workshop.
-It does NOT need to be anonymized.
+It does not need to be anonymized.
 
 #### Dual submissions
 We allow submissions that are also under review in other venues, but please note that many conferences do not allow it, so make sure that you do not violate their policy as well.
