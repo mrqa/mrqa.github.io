@@ -28,7 +28,7 @@ permalink: /organization
 - Dheeru Dua, UC Irvine
 - Gabriel	Stanovsky, University of Washington/Allen Institute for AI
 - Hoifung	Poon, Microsoft
-- Huan Sun, Oregon State University
+- Huan Sun, Ohio State University
 - Jiahua Liu, Tsinghua University
 - Jing Liu, Baidu
 - Jinhyuk Lee, Korea University
