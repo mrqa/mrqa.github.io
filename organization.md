@@ -20,37 +20,60 @@ permalink: /organization
 
 ## Program Committee:
 
-- Mor Geva, Tel Aviv University
+- Alane	Suhr, Cornell University
+- Chenguang	Zhu, Microsoft
+- Christopher	Clark, University of Washington
+- Daniel Khashabi, Allen Institute for AI
+- Danish Contractor, IBM
+- Dheeru Dua, UC Irvine
+- Gabriel	Stanovsky, University of Washington/Allen Institute for AI
+- Hoifung	Poon, Microsoft
+- Huan Sun, Oregon State University
+- Jiahua Liu, Tsinghua University
 - Jing Liu, Baidu
 - Jinhyuk Lee, Korea University
-- Huan Sun, Oregon State University
-- Danish Contractor, IBM
-- Jonathan Herzig, Tel Aviv University
-- Hoifung Poon, Microsoft
-- Kevin Gimpel, TTIC
-- Mrinmaya Sachan, Carnegie Mellon University
-- Minghao Hu, NUDT
-- Zhilin Yang, Carnegie Mellon University
-- Peng Qi, Stanford University
-- Siva Reddy, Stanford University
-- Rajarshi Das, UMass
-- Xiaodong Liu, Microsoft
-- Sameer Singh, UC Irvine
-- Sewon Min, University of Washington
-- Nan Duan, Microsoft
-- Matt Gardner, Allen Institute for AI
-- Ni Lao, Google
-- Scott Yih, Allen Institute for AI
-- Quan Wang, Baidu
 - Johannes Welbl, University College London
-- Panupong Pasupat, Stanford University
-- Saizheng Zhang, University of Montreal
-- Adams Wei Yu, Carnegie Mellon University
-- Semih Yagcioglu, Hacettepe University
-- Chenguang Zhu, Microsoft
+- Jonathan Herzig, Tel Aviv University
+- Kai	Sun, Cornell University
+- Karthik	Narasimhan, Princeton University
+- Kenton Lee, Google
+- Kevin	Gimpel, TTIC
+- Li Dong, Microsoft
+- Luheng He, Google
+- Mandar Joshi, University of Washington
+- Matt Gardner, Allen Institute for AI
+- Matthew	Richardson, Microsoft
 - Mausam, IIT
-- Mohit Iyyer, UMass
-- Omer Levy, Facebook & Tel Aviv University
+- Minghao	Hu, NUDT
+- Mohit	Iyyer, UMass
+- Mor	Geva,  Tel Aviv University
+- Mrinmaya Sachan, Carnegie Mellon University
+- Nan	Duan, Microsoft
+- Ni Lao, Mosaix
+- Nitish Gupta, University of Pennsylvania
+- Omer Levy, Facebook
+- Oyvind Tafjord, Allen Institute for AI
+- Panupong Pasupat, Google
+- Patrick	Lewis, University College London
+- Peng Qi, Stanford University
+- Pradeep	Dasigi, Allen Institute for AI
+- Quan	Wang, Baidu
+- Rajarshi Das, UMass
+- Saizheng Zhang, University of Montreal
+- Sameer Singh, UC Irvine
+- Scott Wen-tau	Yih, Facebook
+- Sebastian	Riedel, University College London/Facebook
+- Semih	Yagcioglu, Hacettepe University
+- Sewon	Min, University of Washington
+- Siva Reddy, Stanford University
+- Todor	Mihaylov, Heidelberg University
+- Tom	Kwiatkowski, Google
+- Tushar Khot, Allen Institute for AI
+- Adams Wei	Yu, Carnegie Mellon University
+- Wenhan	Xiong, UC Santa Barbara
+- Xiaodong Liu, Microsoft
+- Yichen Jiang, UNC Chapel Hill
+- Zhilin	Yang, Carnegie Mellon University
 
 
 {: .two-column}
