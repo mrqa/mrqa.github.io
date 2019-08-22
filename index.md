@@ -53,8 +53,6 @@ For more information, please see [Call for Papers](cfp).
 - [Mohit Bansal](http://www.cs.unc.edu/~mbansal/), UNC Chapel Hill
 - [Antoine Bordes](https://research.fb.com/people/bordes-antoine/), Facebook AI Research
 - [Jordan Boyd-Graber](http://users.umiacs.umd.edu/~jbg/), University of Maryland
-<!-- - [Kyunghyun Cho](http://www.kyunghyuncho.me/), New York University
-- [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/), University of Washington -->
 - [Matt Gardner](https://matt-gardner.github.io/), Allen Institute for AI
 - [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/), Carnegie Mellon University
 
