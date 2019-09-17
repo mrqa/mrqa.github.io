@@ -22,6 +22,10 @@ Hangbo Bao, Li Dong, Furu Wei, Wenhui Wang, Nan Yang, Lei Cui, Songhao Piao and 
 Frederic Bechet, Cindy Aloui, Delphine Charlet, Geraldine Damnati, Johannes Heinecke, Alexis Nasr and Frederic Herledan
 
 
+**Improving Subject-Area Question Answering with External Knowledge**<br>
+Xiaoman Pan, Kai Sun, Dian Yu, Jianshu Chen, Heng Ji, Claire Cardie and Dong Yu
+
+
 **Answer-Supervised Question Reformulation for Enhancing Conversational Machine Comprehension**<br>
 Qian Li, Hui Su, CHENG NIU, Daling Wang, Zekang Li, Shi Feng and yifei zhang
 
