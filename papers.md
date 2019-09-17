@@ -7,6 +7,11 @@ permalink: /cfp
 ---
 # Accepted Papers
 
+Following papers are accepted to MRQA 2019.
+Regular research track papers will appear in the proceedings of the workshop, 
+while non-arxival will not be included (but will given opportunity to present in the workshop).
+Accepted shared task papers will appear soon.
+
 ### Research Track
 
 **Inspecting Unification of Encoding and Matching with Transformer: A Case Study of Machine Reading Comprehension**<br>
@@ -93,3 +98,9 @@ Junmo Kang, Haritz Puerto San Roman and Sung-Hyon Myaeng
 Lea Frermann
 
 
+### Non-Arxival
+TBA
+
+
+### Shared Task Track
+TBA
