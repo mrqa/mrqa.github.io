@@ -3,7 +3,7 @@ layout: main
 title: Accepted Papers
 order: 2
 collection: pages_2019
-permalink: /cfp
+permalink: /papers
 ---
 # Accepted Papers
 
