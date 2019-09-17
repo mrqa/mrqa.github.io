@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Organization
-order: 4
+order: 5
 collection: pages_2019
 permalink: /organization
 ---

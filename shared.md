@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Shared Task
-order: 2
+order: 3
 collection: pages_2019
 permalink: /shared
 ---

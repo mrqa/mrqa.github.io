@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Call for Papers
-order: 3
+order: 4
 collection: pages_2019
 permalink: /cfp
 ---
