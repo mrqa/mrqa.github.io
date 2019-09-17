@@ -5,7 +5,10 @@ order: 2
 collection: pages_2019
 permalink: /cfp
 ---
-# Accepted Papers (Research Track)
+# Accepted Papers
+
+### Research Track
+
 **Inspecting Unification of Encoding and Matching with Transformer: A Case Study of Machine Reading Comprehension**<br>
 Hangbo Bao, Li Dong, Furu Wei, Wenhui Wang, Nan Yang, Lei Cui, Songhao Piao and Ming Zhou
 
