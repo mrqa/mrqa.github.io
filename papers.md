@@ -103,8 +103,25 @@ Lea Frermann
 
 
 ### Non-Arxival
-TBA
+**Errudite: Scalable, Reproducible, and Testable Error Analysis**<br>
+Tongshuang Wu, Marco Tulio Ribeiro, Jeffrey Heer and Daniel Weld<br>
+*Published at EMNLP-IJCNLP 2019*
 
+
+**Are Red Roses Red? Evaluating Consistency of Question-Answering Models**<br>
+Marco Tulio Ribeiro, Carlos Guestrin and Sameer Singh<br>
+*Published at ACL 2019*
+
+
+**Revealing the Importance of Semantic Retrieval for Machine Reading at Scale**<br>
+Yixin Nie, Songhe Wang and Mohit Bansal<br>
+*Published at EMNLP-IJCNLP 2019*
+
+
+
+**Discourse-Aware Semantic Self-Attention for Narrative Reading Comprehension**<br>
+Todor Mihaylov and Anette Frank<br>
+*Published at EMNLP-IJCNLP 2019*
 
 ### Shared Task Track
 TBA
