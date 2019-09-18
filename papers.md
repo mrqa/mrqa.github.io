@@ -27,7 +27,7 @@ Xiaoman Pan, Kai Sun, Dian Yu, Jianshu Chen, Heng Ji, Claire Cardie and Dong Yu
 
 
 **Answer-Supervised Question Reformulation for Enhancing Conversational Machine Comprehension**<br>
-Qian Li, Hui Su, CHENG NIU, Daling Wang, Zekang Li, Shi Feng and yifei zhang
+Qian Li, Hui Su, CHENG NIU, Daling Wang, Zekang Li, Shi Feng and Yifei Zhang
 
 
 **Simple yet Effective Bridge Reasoning for Open-Domain Multi-Hop Question Answering**<br>
