@@ -105,7 +105,7 @@ Lea Frermann
 ### Non-Arxival
 **Errudite: Scalable, Reproducible, and Testable Error Analysis**<br>
 Tongshuang Wu, Marco Tulio Ribeiro, Jeffrey Heer and Daniel Weld<br>
-*Published at EMNLP-IJCNLP 2019*
+*Published at ACL 2019*
 
 
 **Are Red Roses Red? Evaluating Consistency of Question-Answering Models**<br>
