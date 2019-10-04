@@ -54,7 +54,6 @@ For more information, please see [Call for Papers](cfp).
 - [Antoine Bordes](https://research.fb.com/people/bordes-antoine/), Facebook AI Research
 - [Jordan Boyd-Graber](http://users.umiacs.umd.edu/~jbg/), University of Maryland
 - [Matt Gardner](https://matt-gardner.github.io/), Allen Institute for AI
-- [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/), Carnegie Mellon University
 
 ## Awards
 This year we will give two awards, one for each track:
