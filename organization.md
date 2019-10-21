@@ -11,7 +11,7 @@ permalink: /organization
 - [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz), University of Washington
 
 ## Organizing Committee:
-- [Danqi Chen](http://cs.stanford.edu/~danqi), Princeton University
+- [Danqi Chen](https://www.cs.princeton.edu/~danqic/), Princeton University
 - [Eunsol Choi](https://homes.cs.washington.edu/~eunsol/home.html), University of Washington
 - [Adam Fisch](https://people.csail.mit.edu/fisch/), MIT
 - [Robin Jia](http://stanford.edu/~robinjia/), Stanford University
