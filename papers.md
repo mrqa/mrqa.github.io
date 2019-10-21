@@ -8,7 +8,7 @@ permalink: /papers
 # Accepted Papers
 
 Following papers are accepted to MRQA 2019.
-Regular research track papers will appear in the proceedings of the workshop, 
+Regular research track papers will appear in the proceedings of the workshop,
 while non-arxival will not be included (but will be given opportunity to present in the workshop).
 Accepted shared task papers will appear soon.
 
@@ -103,25 +103,42 @@ Lea Frermann
 
 
 ### Non-Arxival
-**Errudite: Scalable, Reproducible, and Testable Error Analysis**<br>
+**[Errudite: Scalable, Reproducible, and Testable Error Analysis](https://www.aclweb.org/anthology/P19-1073.pdf)**<br>
 Tongshuang Wu, Marco Tulio Ribeiro, Jeffrey Heer and Daniel Weld<br>
 *Published at ACL 2019*
 
 
-**Are Red Roses Red? Evaluating Consistency of Question-Answering Models**<br>
+**[Are Red Roses Red? Evaluating Consistency of Question-Answering Models](https://www.aclweb.org/anthology/P19-1621.pdf)**<br>
 Marco Tulio Ribeiro, Carlos Guestrin and Sameer Singh<br>
 *Published at ACL 2019*
 
 
-**Revealing the Importance of Semantic Retrieval for Machine Reading at Scale**<br>
+**[Revealing the Importance of Semantic Retrieval for Machine Reading at Scale](https://arxiv.org/pdf/1909.08041.pdf)**<br>
 Yixin Nie, Songhe Wang and Mohit Bansal<br>
 *Published at EMNLP-IJCNLP 2019*
 
 
 
-**Discourse-Aware Semantic Self-Attention for Narrative Reading Comprehension**<br>
+**[Discourse-Aware Semantic Self-Attention for Narrative Reading Comprehension](https://arxiv.org/pdf/1908.10721.pdf)**<br>
 Todor Mihaylov and Anette Frank<br>
 *Published at EMNLP-IJCNLP 2019*
 
 ### Shared Task Track
-TBA
+**D-NET: A Pre-Training and Fine-Tuning Framework for Improving the Generalization of Machine Reading Comprehension**<br>
+Hongyu Li, Xiyuan Zhang, Yibing Liu, Yiming Zhang, Quan Wang, Xiangyang Zhou, Jing Liu, Hua Wu and Haifeng Wang
+
+
+**An Exploration of Data Augmentation and Sampling Techniques for Domain-Agnostic Question Answering**<br>
+Shayne Longpre, Yi Lu, Zhucheng Tu and Chris DuBois
+
+**Generalizing Question Answering System with Pre-trained Language Model Fine-tuning**<br>
+Dan Su, Yan Xu, Genta Indra Winata, Peng Xu, Hyeondey Kim, Zihan Liu and Pascale Fung
+
+**CLER: Cross-task Learning with Expert Representation to Generalize Reading and Understanding**<br>
+Takumi Takahashi, Motoki Taniguchi, Tomoki Taniguchi and Tomoko Ohkuma
+
+**Domain-agnostic Question-Answering with Adversarial Training**<br>
+Seanie Lee, Donggyu Kim and Jangwon Park
+
+**Question Answering Using Hierarchical Attention on Top of BERT Features**<br>
+Reham Osama, Nagwa El-Makky and Marwan Torki
