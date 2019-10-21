@@ -50,7 +50,7 @@ Mao Nakanishi, Tetsunori Kobayashi and Yoshihiko Hayashi
 Elozino Egonmwan, Vittorio Castelli and Md Arafat Sultan
 
 
-**[Book QA: Stories of Challenges and Opportunities](/assets/papers/29_Paper.pdf)**<br>
+**[BookQA: Stories of Challenges and Opportunities](/assets/papers/29_Paper.pdf)**<br>
 Stefanos Angelidis, Diego Marcheggiani, Lluís Màrquez, Roi Blanco and Lea Frermann
 
 
@@ -102,7 +102,7 @@ Junmo Kang, Haritz Puerto San Roman and Sung-Hyon Myaeng
 Lea Frermann
 
 
-### Non-Arxival
+### Cross Submissions (non-Arxival)
 **[Errudite: Scalable, Reproducible, and Testable Error Analysis](https://www.aclweb.org/anthology/P19-1073.pdf)**<br>
 Tongshuang Wu, Marco Tulio Ribeiro, Jeffrey Heer and Daniel Weld<br>
 *Published at ACL 2019*
