@@ -22,7 +22,7 @@ Hangbo Bao, Li Dong, Furu Wei, Wenhui Wang, Nan Yang, Lei Cui, Songhao Piao and 
 Frederic Bechet, Cindy Aloui, Delphine Charlet, Geraldine Damnati, Johannes Heinecke, Alexis Nasr and Frederic Herledan
 
 
-**[Improving Subject-Area Question Answering with External Knowledge](/assets/papers/14_Paper.pdf)**<br>
+**[Improving Question Answering with External Knowledge](/assets/papers/14_Paper.pdf)**<br>
 Xiaoman Pan, Kai Sun, Dian Yu, Jianshu Chen, Heng Ji, Claire Cardie and Dong Yu
 
 
@@ -51,7 +51,7 @@ Elozino Egonmwan, Vittorio Castelli and Md Arafat Sultan
 
 
 **[BookQA: Stories of Challenges and Opportunities](/assets/papers/29_Paper.pdf)**<br>
-Stefanos Angelidis, Diego Marcheggiani, Lluís Màrquez, Roi Blanco and Lea Frermann
+Stefanos Angelidis, Lea Frermann, Diego Marcheggiani, Roi Blanco, Lluís Marquez
 
 
 **[FlowDelta: Modeling Flow Information Gain in Reasoning for Conversational Machine Comprehension](/assets/papers/30_Paper.pdf)**<br>
