@@ -18,6 +18,12 @@ Both train and test datasets have the same format and this year we focus on extr
 Each participant will submit a single QA system trained on the provided training data.
 We will then privately evaluate each system on the hidden test data.
 
+## ****NEW**** Shared Task Results
+We are very pleased to announce the shared our shared task results:
+![results](assets/images/mrqa-results.png)
+
+Congratulations to the teams from **Baidu, Apple and Harbin Institute of Technology** for winning the top 3 in the shared task! <br>
+Please find more details in our report: [MRQA 2019 Shared Task: Evaluating Generalization in Reading Comprehension](https://arxiv.org/abs/1910.09753).
 
 ## Training Datasets
 
@@ -45,15 +51,24 @@ For development, we release [development datasets](https://github.com/mrqa/MRQA-
 - [RelationExtraction](https://arxiv.org/abs/1706.04115) (Levy et al., 2017)
 - [TextbookQA](http://ai2-website.s3.amazonaws.com/publications/CVPR17_TQA.pdf) (Kembhavi et al., 2017)
 
-In addition, we also provide ["in-domain" dev datasets](https://github.com/mrqa/MRQA-Shared-Task-2019#in-domain) to be used for helping devlop models.
+In addition, we also provide ["in-domain" dev datasets](https://github.com/mrqa/MRQA-Shared-Task-2019#in-domain) to be used for helping develop models.
 The final testing, however, will only contain out-of-domain data.
 
-We will keep the other five test datasets hidden until the conclusion of the shared task.
+We will keep the other fix test datasets hidden until the conclusion of the shared task.
 We hope this will prevent teams from building solutions that are specific to our test datasets,
 but do not generalize to other datasets.
 
 Note: while the development data can be used for model selection,
 **participants should not train models directly on the development data**.
+
+#### ****NEW**** Test Datasets
+The final six hidden test sets we used are:
+- [BioProcess](https://www.aclweb.org/anthology/D14-1159v2.pdf) (Berant et al, 2014)
+- [ComplexWebQuestions](https://www.aclweb.org/anthology/N18-1059.pdf) (Talmor and Berant, 2018)
+- [MCTest](https://www.aclweb.org/anthology/D13-1020.pdf) (Richardson et al, 2013)
+- [QAMR](https://www.aclweb.org/anthology/N18-2089.pdf) (Michael et al, 2018)
+- [QAST](http://www.lrec-conf.org/proceedings/lrec2008/pdf/511_paper.pdf) (Lamel et al, 2008)
+- [TREC](http://ailao.eu/yodaqa/yodaqa-clef2015.pdf) (Baudis and Sedivy, 2015)
 
 
 ## Evaluation
@@ -66,10 +81,10 @@ We will judge systems primarily on their (macro-) average F1 score across all te
 Time and resources permitting, we plan to run human evaluation on the top few systems with the highest overall score.
 Human evaluators will directly judge whether top systems’ predictions are good answers to the test questions.
 
-After models have been submitted, we will release anonymized, interactive web demos for 
+After models have been submitted, we will release anonymized, interactive web demos for
 high-performing models.
 Anyone will be able to pose their own questions to these models,
-in order to better understand their strengths and weaknesses. 
+in order to better understand their strengths and weaknesses.
 We will report on these findings at the workshop.
 
 ## Data Format and Submission Instructions
