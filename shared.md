@@ -19,11 +19,12 @@ Each participant will submit a single QA system trained on the provided training
 We will then privately evaluate each system on the hidden test data.
 
 ## ****NEW**** Shared Task Results
-We are very pleased to announce the shared our shared task results:
+We are very pleased to announce our shared task results:
 ![results](assets/images/mrqa-results.png)
 
 Congratulations to the teams from **Baidu, Apple and Harbin Institute of Technology** for winning the top 3 in the shared task! <br>
 Please find more details in our report: [MRQA 2019 Shared Task: Evaluating Generalization in Reading Comprehension](https://arxiv.org/abs/1910.09753).
+All the shared task papers are available at [https://mrqa.github.io/papers](https://mrqa.github.io/papers).
 
 ## Training Datasets
 
