@@ -124,6 +124,15 @@ td {
   list-style-position: inside
 }
 
+/*
+ * Button for abstract and slides
+ */
+.btn-xs {
+  padding: 3px 6px;
+}
+.card {
+  margin-bottom: 20px;
+}
 
 /*
  * Footer
