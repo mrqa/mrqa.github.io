@@ -25,7 +25,7 @@ Our shared task is specifically designed to test how well MRQA systems can gener
 9:00--9:35   | [Antoine Bordes](https://research.fb.com/people/bordes-antoine/), Facebook Artificial Intelligence Research<br>
 <b>Better generation and knowledge fetching for long-form question answering</b>&nbsp;
 <button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#antoine-card" aria-expanded="false" aria-controls="antoine-card">Abstract</button>
-<a href="./slides/antoine_bordes_mrqa2019.pdf" class="btn btn-outline-info btn-xs">Slides</a>
+<a href="./assets/slides/antoine_bordes_mrqa2019.pdf" class="btn btn-outline-info btn-xs">Slides</a>
 <div class="collapse" id="antoine-card"><div class="card card-body">
 Long form question answering requires machines to provide long, complex answers, usually in the form of paragraphs&mdash;something that existing algorithms have not been challenged to do before. In this talk, we will outline the key opportunities and challenges that long-form QA entail. And we will present recent works that show that we can make promising advances towards machines that can generate complex answers to any question. Based on joint work with Angela Fan, Yacine Jernite, Chloe Braud, Michael Auli and Claire Gardent.
 </div></div>
