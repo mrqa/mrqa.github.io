@@ -8,9 +8,9 @@ permalink: /papers
 # Accepted Papers
 
 Following papers are accepted to MRQA 2019.
-Regular research track papers will appear in the proceedings of the workshop,
-while non-arxival will not be included (but will be given opportunity to present in the workshop).
-Accepted shared task papers will appear soon.
+Regular research track papers appear in the proceedings of the workshop,
+while non-arxival papers are not be included (but are given opportunity to present in the workshop).
+Accepted shared task papers are also below.
 
 ### Research Track
 
