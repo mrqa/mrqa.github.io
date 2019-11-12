@@ -32,7 +32,7 @@ Long form question answering requires machines to provide long, complex answers,
 9:35--10:10  | [Matt Gardner](https://matt-gardner.github.io/), Allen Institute for Artificial Intelligence<br>
 <b>How will we know when machines can read?</b>&nbsp;
 <button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#matt-card" aria-expanded="false" aria-controls="matt-card">Abstract</button>
-<!--<a href="./slides/matt_gardner_mrqa2019.pdf" class="btn btn-outline-info btn-xs">Slides</a>-->
+<a href="./slides/matt_gardner_mrqa2019.pdf" class="btn btn-outline-info btn-xs">Slides</a>
 <div class="collapse" id="matt-card"><div class="card card-body">
 The task of machine reading comprehension, asking a machine questions about a passage of text to probe its understanding, has seen a dramatic surge in popularity in recent years.  According to some metrics, we now have machines that perform as well as humans on this task.  Yet no serious researcher actually believes that machines can read, despite their performance on some reading comprehension benchmarks.  What would it take to convince ourselves that a machine understood a passage of text?  Can we devise a benchmark that would let us measure progress towards that goal?  In this talk I try to outline what such a benchmark might look like, and share some initial progress towards building one.
 </div></div>
