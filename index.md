@@ -72,7 +72,7 @@ whizzes taking on QA systems (and their take on QA research).
 14:20--14:55  | [Mohit Bansal](http://www.cs.unc.edu/~mbansal/), University of North Carolina at Chapel Hill<br>
 <b>Interpretability and Robustness for Multi-Hop QA</b>&nbsp;
 <button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#mohit-card" aria-expanded="false" aria-controls="mohit-card">Abstract</button>
-<!--<a href="./assets/slides/mohit_bansal_mrqa2019.pdf" class="btn btn-outline-info btn-xs">Slides</a>-->
+<a href="./assets/slides/mohit_bansal_mrqa2019.pdf" class="btn btn-outline-info btn-xs">Slides</a>
 <div class="collapse" id="mohit-card"><div class="card card-body">
 In this talk, I will present some of our recent work in two important directions for multi-hop QA. First, we will discuss the value of interpretability and modularity, via our self-assembling neural modular networks and our explore+propose+assemble reasoning tree prediction models for multi-hop QA tasks. Next, I will present our work on robustness to adversaries and unseen scenarios for QA and dialogue models, including adversarial evaluation+training to avoid reasoning shortcuts in multi-hop QA, auto-augment based adversary-generation and self-robustification methods for dialogue models, robustness to new diverse questions via question generation for QA-augmentation, and robustness to missing commonsense/external knowledge in generative multi-hop QA.
 </div></div>
