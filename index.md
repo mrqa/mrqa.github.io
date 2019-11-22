@@ -42,7 +42,7 @@ The task of machine reading comprehension, asking a machine questions about a pa
 11:00--11:35  | [Jordan Boyd-Graber](http://users.umiacs.umd.edu/~jbg/), University of Maryland<br>
 <b>What QA Researchers can Learn from Trivia Nerds</b>&nbsp;
 <button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#jordan-card" aria-expanded="false" aria-controls="jordan-card">Abstract</button>
-<!--<a href="./assets/slides/jordan_boyd_graber_mrqa2019.pdf" class="btn btn-outline-info btn-xs">Slides</a>-->
+<a href="https://arxiv.org/abs/1910.14464" class="btn btn-outline-info btn-xs">Paper</a>
 <div class="collapse" id="jordan-card"><div class="card card-body">
 In addition to the traditional task of getting machines to answer
 questions, a major research question in question answering is creating
