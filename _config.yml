@@ -1,6 +1,6 @@
 ---
 port: 4000
-host: 0.0.0.0
+host: localhost
 safe: false
 
 exclude: [README.md, .gitignore]
@@ -16,6 +16,7 @@ favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
 
 collections:
+  - pages_2021
   - pages_2019
   - pages_2018
   - pages_2019_rc

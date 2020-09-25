@@ -1,9 +1,8 @@
 ---
-layout: main
+layout: main-2019
 title: Call for Papers
 order: 4
 collection: pages_2019
-permalink: /cfp
 ---
 # Call for Papers
 Machine Reading for Question Answering (MRQA) has become an important testbed for

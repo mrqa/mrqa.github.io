@@ -1,9 +1,8 @@
 ---
-layout: main
+layout: main-2019
 title: Accepted Papers
 order: 2
 collection: pages_2019
-permalink: /papers
 ---
 # Accepted Papers
 
