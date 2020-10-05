@@ -1,10 +1,10 @@
 ---
-layout: main
+layout: main-2019
 title: Call for Papers
 order: 4
 collection: pages_2019
-permalink: /cfp
 ---
+
 # Call for Papers
 Machine Reading for Question Answering (MRQA) has become an important testbed for
 evaluating how well computer systems understand human language,
@@ -59,7 +59,7 @@ Submission is electronic via the [Softconf START system](https://www.softconf.co
 
 We accept two types of submissions:
  1. Archival: original work that will be included in the workshop proceedings. It needs to be anonymized and goes through double-blind review process.
- 2. Non-archival: work published elsewhere. It won't be included in the proceedings. 
+ 2. Non-archival: work published elsewhere. It won't be included in the proceedings.
  The authors should clearly indicate the original venue,
 and will be accepted if the organizers think the work will benefit from exposure to the audience of this workshop.
 It does not need to be anonymized.

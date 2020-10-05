@@ -1,10 +1,10 @@
 ---
-layout: main
+layout: main-2019
 title: Shared Task
 order: 3
 collection: pages_2019
-permalink: /shared
 ---
+
 # MRQA 2019 Shared Task
 The 2019 MRQA Shared Task focuses on **generalization**.
 We release an official training dataset containing examples from existing QA datasets, and evaluate submitted models on ten hidden QA test datasets.

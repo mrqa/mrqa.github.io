@@ -9,13 +9,14 @@ lsi: false
 markdown: kramdown
 
 ### content configuration ###
-title:       "Workshop on Machine Reading for Question Answering (MRQA)"
+title:       "Workshop on Machine Reading for Question Answering (MRQA) 2021"
 keywords:    "workshop, machine reading, question answering, reading comprehension"
-description: "The official website for the Workshop on Machine Reading for Question Answering"
+description: "The official website for the 2021 Workshop on Machine Reading for Question Answering (MRQA)"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
 
 collections:
+  - pages_2021
   - pages_2019
   - pages_2018
   - pages_2019_rc
