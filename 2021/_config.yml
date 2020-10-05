@@ -1,0 +1,16 @@
+---
+port: 4000
+host: 0.0.0.0
+safe: false
+
+exclude: [README.md, .gitignore]
+timezone: null
+lsi: false
+markdown: kramdown
+
+### content configuration ###
+title:       "Workshop on Machine Reading for Question Answering (MRQA) 2021"
+keywords:    "workshop, machine reading, question answering, reading comprehension"
+description: "The official website for the 2021 Workshop on Machine Reading for Question Answering (MRQA)"
+favicon:     #put a path like: "img/favicon.ico"
+touch_icon:  #put a path like: "img/apple-touch-icon.png"
