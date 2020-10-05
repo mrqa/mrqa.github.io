@@ -15,7 +15,39 @@ collection: pages_2021
 - [Sewon Min](https://shmsw25.github.io/), University of Washington
 
 
-## Program Committee
-- People
-- Here
+## Program Committee (Confirmed)
+- Yizhong Wang
+- Shayne Longpre
+- Kevin Lin
+- Huan Sun
+- Akari Asai
+- Rajarshi Das
+- Tushar Khot
+- Yuxiang Wu
+- Douwe Kiela
+- Jinhyuk Lee
+- Jifan Chen
+- Nitish Gupta
+- Shuohang Wang
+- Jing Liu
+- Mor Geva
+- Matt Gardner
+- Eric Wallace
+- Yichen Jiang
+- Nan Duan
+- Xiaodong Liu
+- Danish Contractor
+- Panupong Pasupat
+- Max Bartolo
+- Xinya Du
+- Tong Wang
+- Jonathan Clark
+- Matthew Lamm
+- Jonathan Herzig
+- Rodrigo Nogueira
+- Peng Qi
+- Kenton Lee
+- Kai Sun
+- Gautier Izacard
+- Thomas Kwiatkowski
 {: .two-column}
