@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: main-2021
 title: Past Workshops
 order: 3
 collection: pages_2021
