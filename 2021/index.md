@@ -35,12 +35,12 @@ Our second theme of the workshop is multilingual and cross lingual question answ
 
 
 ## Speakers
-#### Interpretability
+**Interpretability**
 - [Hanna Hajishirzi](https://homes.cs.washington.edu/~hannaneh/), University of Washington & Allen Institute for AI
 - [Jonathan Berant](https://www.cs.tau.ac.il/~joberant/),Tel Aviv University & Allen Institute for AI
 - [Marco Tulio Ribeiro](https://homes.cs.washington.edu/~marcotcr/), Microsoft
 
-#### Multilingual QA
+**Multilingual QA**
 - [Jon Clark](https://www.linkedin.com/in/jonhclark/), Google
 - [Reut Tsarfaty](http://www.tsarfaty.com/), Bar-Ilan University
 - [Yiming Cui](http://ymcui.github.io/), HIT & iFLYTEK Research
