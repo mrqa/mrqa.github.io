@@ -52,4 +52,4 @@ permalink: /organization
 - Kai Sun
 - Gautier Izacard
 - Thomas Kwiatkowski
-{: .two-column}
+{: .one-column}
