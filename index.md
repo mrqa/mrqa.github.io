@@ -5,6 +5,8 @@ order: 1
 collection: pages_2021
 ---
 ## Overview
+**We have released our [Call for Papers](cfp)!**
+
 Machine Reading for Question Answering (MRQA) has become an important testbed for evaluating how well computer systems understand human language, as well as a crucial technology for industry applications such as search engines and dialogue systems. Successful MRQA systems must deal with a wide range of natural language phenomena, such as lexical semantics, paraphrasing/entailment, coreference, and pragmatic reasoning, to answer questions based on text. 
 
 In recent years, the research community has achieved significant progress in both MRQA datasets and models. Novel datasets focus on different aspects of the problem, such as multi-hop reasoning, numerical reasoning, or commonsense reasoning. Models have also improved significantly in accuracy, and are now capable of retrieving evidence documents on the fly. However, most MRQA systems do not consider other important and diverse desiderata, such as interpretability and multilinguality, as they are predominantly evaluated by measuring accuracy on English benchmarks.
