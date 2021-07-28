@@ -39,6 +39,7 @@ permalink: /organization
 - Nan Duan
 - Nitish Gupta
 - Panupong Pasupat
+- Pedro Rodriguez
 - Peng Qi
 - Rajarshi Das
 - Rodrigo Nogueira
