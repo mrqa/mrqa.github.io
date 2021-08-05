@@ -6,6 +6,8 @@ collection: pages_2021
 permalink: /cfp
 ---
 # Call for Papers
+**Please note that we have extended the paper submission deadline to August 12.**
+
 We seek regular paper submissions on various aspects of machine reading systems for question answering, including but not limited to: accuracy, speed, scalability, robustness, dataset creation, dataset analysis, and error analysis. General MRQA submissions should be submitted to our research track.
 
 Submissions related to MRQA 2021’s special themes of interpretability and multilinguality will be featured in two separate tracks. The interpretability track seeks submissions related to QA model introspection and explainability, including, but not limited to, topics such as rationales, attention, and model analysis. Our multilinguality track seeks submissions including, but not limited to, topics such as cross-lingual generalization, language transfer, datasets, and language-robust evaluation metrics.
@@ -22,11 +24,11 @@ We allow submissions that are also under review in other venues, but please note
 We do not enforce an anonymity period. We do not restrict posting on preprint servers such as arXiv at any point of time.
 
 ## Important Dates
-- Submission deadline: **August 5, 2021**
-- Submission deadline *with* reviews (from ACL Rolling Review): **August 27, 2021**
-- Notification of acceptance: **September 5, 2021**
-- Camera-ready deadline: **September 15, 2021**
+- Submission deadline: **August 12, 2021**
+- Submission deadline *with* reviews (from ACL Rolling Review): **September 3, 2021**
+- Notification of acceptance: **September 12, 2021**
+- Camera-ready deadline: **September 22, 2021**
 
 All submission deadlines are 11:59 PM GMT -12 (anywhere in the world).
 
-Note that to receive reviews from ACL Rolling Review by the August 27 deadline, submissions should be made to ARR by **July 15th.**
+Note that to receive reviews from ACL Rolling Review by the September 3 deadline, submissions should be made to ARR by **July 15th.**
