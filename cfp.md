@@ -24,10 +24,10 @@ We allow submissions that are also under review in other venues, but please note
 We do not enforce an anonymity period. We do not restrict posting on preprint servers such as arXiv at any point of time.
 
 ## Important Dates
-- Submission deadline: **August 12, 2021**
-- Submission deadline *with* reviews (from ACL Rolling Review): **September 3, 2021**
-- Notification of acceptance: **September 12, 2021**
-- Camera-ready deadline: **September 22, 2021**
+- Submission deadline: ~~August 5, 2021~~ **August 12, 2021**
+- Submission deadline *with* reviews (from ACL Rolling Review): ~~August 27, 2021~~ **September 3, 2021**
+- Notification of acceptance: ~~September 5, 2021~~ **September 12, 2021**
+- Camera-ready deadline: ~~September 15, 2021~~ **September 22, 2021**
 
 All submission deadlines are 11:59 PM GMT -12 (anywhere in the world).
 
