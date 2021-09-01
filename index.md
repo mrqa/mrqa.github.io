@@ -5,7 +5,8 @@ order: 1
 collection: pages_2021
 ---
 ## Overview
-**We have extended our normal submission deadline to August 12. Please see our [Call for Papers](cfp).**
+[](**We have extended our normal submission deadline to August 12. Please see our [Call for Papers](cfp).**)
+**Deadline for the standard submissions has passed. We accept papers published elsewhere for the non-archival track (deadline: September 3). Please submit your work via the [google form](https://docs.google.com/forms/d/e/1FAIpQLSfPOCOr_4UiTVII29dZAL1GXkTFFvueQJa9gLaVK5TKh5R02A/viewform?usp=sf_link).**
 
 Machine Reading for Question Answering (MRQA) has become an important testbed for evaluating how well computer systems understand human language, as well as a crucial technology for industry applications such as search engines and dialogue systems. Successful MRQA systems must deal with a wide range of natural language phenomena, such as lexical semantics, paraphrasing/entailment, coreference, and pragmatic reasoning, to answer questions based on text. 
 
