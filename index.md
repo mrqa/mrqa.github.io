@@ -35,15 +35,16 @@ We also seek submissions in broad areas relevant to MRQA, but do not fall within
 Workshop registration is included in [EMNLP 2021 registration](https://2021.emnlp.org/registration), along with access to the main conference, all workshops and tutorials. Note that our workshop is fully virtual.
 
 ## Speakers
-**Interpretability**
-- [Hanna Hajishirzi](https://homes.cs.washington.edu/~hannaneh/), University of Washington & Allen Institute for AI
-- [Jonathan Berant](https://www.cs.tau.ac.il/~joberant/),Tel Aviv University & Allen Institute for AI
-- [Marco Tulio Ribeiro](https://homes.cs.washington.edu/~marcotcr/), Microsoft
 
 **Multilingual QA**
 - [Jon Clark](https://www.linkedin.com/in/jonhclark/), Google
 - [Reut Tsarfaty](http://www.tsarfaty.com/), Bar-Ilan University
 - [Yiming Cui](http://ymcui.github.io/), HIT & iFLYTEK Research
+
+**Interpretability**
+- [Hanna Hajishirzi](https://homes.cs.washington.edu/~hannaneh/), University of Washington & Allen Institute for AI
+- [Jonathan Berant](https://www.cs.tau.ac.il/~joberant/),Tel Aviv University & Allen Institute for AI
+- [Marco Tulio Ribeiro](https://homes.cs.washington.edu/~marcotcr/), Microsoft
 
 ## Program (tentative)
 The 3rd MRQA workshop will be held virtually on November 10, 2021 from 9AM to 5PM in Punta Cana Time (UTC-4).
