@@ -73,3 +73,9 @@ The 3rd MRQA workshop will be held virtually on November 10, 2021 from 9AM to 5P
 - [Patrick Lewis](https://www.patricklewis.io/), Facebook & University College London
 - [Robin Jia](https://robinjia.github.io/), Facebook & University of Southern California
 - [Sewon Min](https://shmsw25.github.io/), University of Washington
+
+
+## Sponsors
+![Baidu]({{ "/assets/images/baidu-logo.png" | absolute_url }})
+![Facebook]({{ "/assets/images/facebook-logo.png" | absolute_url }})
+

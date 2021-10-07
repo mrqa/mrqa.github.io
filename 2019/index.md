@@ -140,8 +140,8 @@ Instructions on how to apply for financial assistance will be provided after pap
 - [Alon Talmor](https://www.alontalmor.com/), Tel Aviv University
 
 ## Sponsors
-![Baidu]({{ "/assets/images/baidu-logo.png" | absolute_url }})
-![Facebook]({{ "/assets/images/facebook-logo.png" | absolute_url }})
-![Naver]({{ "/assets/images/naver-logo.png" | absolute_url }})
+![Baidu]({{ "/2019/assets/images/baidu-logo.png" | absolute_url }})
+![Facebook]({{ "/2019/assets/images/facebook-logo.png" | absolute_url }})
+![Naver]({{ "/2019/assets/images/naver-logo.png" | absolute_url }})
 
 Please see [Invitation to Sponsor MRQA](assets/docs/sponsorship.pdf) for sponsorship details.

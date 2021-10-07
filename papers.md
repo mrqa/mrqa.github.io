@@ -8,7 +8,7 @@ collection: pages_2021
 
 Following papers are accepted to MRQA 2021.
 Multilingual, Interpretability and Research track papers appear in the proceedings of the workshop,
-while non-arxival papers are not be included (but are given opportunity to present in the workshop).
+while non-archival papers are not be included (but are given opportunity to present in the workshop).
 
 
 ### Multilingual Track
@@ -68,7 +68,7 @@ while non-arxival papers are not be included (but are given opportunity to prese
 **[Simple and Efficient ways to Improve REALM](/assets/papers/24_Paper.pdf)**<br />Vidhisha Balachandran, Ashish Vaswani, Yulia Tsvetkov and Niki Parmar
 
 
-### Non-Arxival Track
+### Non-Archival Track
 
 
 **Synthetic Target Domain Supervision for Open Retrieval QA**<br />Revanth Gangi Reddy, Bhavani Iyer, Md Arafat Sultan, Rong Zhang, Avirup Sil, Vittorio Castelli, Radu Florian and Salim Roukos<br />*Published at SIGIR 2021*
