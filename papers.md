@@ -71,22 +71,22 @@ while non-arxival papers are not be included (but are given opportunity to prese
 ### Non-Arxival Track
 
 
-**Synthetic Target Domain Supervision for Open Retrieval QA**<br />Revanth Gangi Reddy, Bhavani Iyer, Md Arafat Sultan, Rong Zhang, Avirup Sil, Vittorio Castelli, Radu Florian, Salim Roukos<br />*Published at SIGIR 2021*
+**Synthetic Target Domain Supervision for Open Retrieval QA**<br />Revanth Gangi Reddy, Bhavani Iyer, Md Arafat Sultan, Rong Zhang, Avirup Sil, Vittorio Castelli, Radu Florian and Salim Roukos<br />*Published at SIGIR 2021*
 
 
-**Entity-based Knowledge Conflicts in Question Answering**<br />Shayne Longpre, Kartik Perisetla, Anthony Chen, Nikhil Ramesh, Chris Dubois, Sameer Singh<br />*Published at EMNLP 2021*
+**Entity-based Knowledge Conflicts in Question Answering**<br />Shayne Longpre, Kartik Perisetla, Anthony Chen, Nikhil Ramesh, Chris Dubois and Sameer Singh<br />*Published at EMNLP 2021*
 
 
-**Mitigating False-Negative Contexts in Multi-Document Question Answering with Retrieval Marginalization**<br />Ansong Ni, Matt Gardner, Pradeep Dasigi<br />*Published at EMNLP 2021*
+**Mitigating False-Negative Contexts in Multi-Document Question Answering with Retrieval Marginalization**<br />Ansong Ni, Matt Gardner and Pradeep Dasigi<br />*Published at EMNLP 2021*
 
 
-**Generative Context Pair Selection for Multi-hop Question Answering**<br />Dheeru Dua,Cicero Nogueira dos Santos,Patrick Ng,Ben Athiwaratkun,Bing Xiang,Matt Gardner,Sameer Singh<br />*Published at EMNLP 2021*
+**Generative Context Pair Selection for Multi-hop Question Answering**<br />Dheeru Dua, Cicero Nogueira dos Santos, Patrick Ng, Ben Athiwaratkun, Bing Xiang, Matt Gardner and Sameer Singh<br />*Published at EMNLP 2021*
 
 
-**Learning with Instance Bundles for Reading Comprehension**<br />Dheeru Dua, Pradeep Dasigi,Sameer Singh,Matt Gardner<br />*Published at EMNLP 2021*
+**Learning with Instance Bundles for Reading Comprehension**<br />Dheeru Dua, Pradeep Dasigi, Sameer Singh and Matt Gardner<br />*Published at EMNLP 2021*
 
 
-**Can NLI Models Verify QA Systems’ Predictions?**<br />Jifan Chen, Eunsol Choi, Greg Durrett<br />*Published at EMNLP 2021 Findings*
+**Can NLI Models Verify QA Systems’ Predictions?**<br />Jifan Chen, Eunsol Choi and Greg Durrett<br />*Published at EMNLP 2021 Findings*
 
 
 **Knowing More About Questions Can Help: Improving Calibration in Question Answering**<br />Shujian Zhang, Chengyue Gong and Eunsol Choi<br />*Published at ACL 2021 Findings*
