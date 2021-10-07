@@ -11,7 +11,7 @@ Multilingual, Interpretability and Research track papers appear in the proceedin
 while non-arxival papers are not be included (but are given opportunity to present in the workshop).
 
 
-###Multilingual Track
+### Multilingual Track
 
 
 **[GermanQuAD and GermanDPR: Improving Non-English Question Answering and Passage Retrieval](/assets/papers/4_Paper.pdf)**<br />Timo Möller, Julian Risch and Malte Pietsch
@@ -29,7 +29,7 @@ while non-arxival papers are not be included (but are given opportunity to prese
 **[MFAQ: a Multilingual FAQ Dataset](/assets/papers/21_Paper.pdf)**<br />Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans
 
 
-###Interpretability Track
+### Interpretability Track
 
 
 **[Eliciting Bias in Question Answering Models through Ambiguity](/assets/papers/10_Paper.pdf)**<br />Andrew Mao, Naveen J. Raman, Matthew Shu, Eric Li, Franklin Yang and Jordan Boyd-Graber
@@ -38,7 +38,7 @@ while non-arxival papers are not be included (but are given opportunity to prese
 **[What Would it Take to get Biomedical QA Systems into Practice?](/assets/papers/14_Paper.pdf)**<br />Gregory Kell, Iain Marshall, Byron Wallace and Andre Jaun
 
 
-###Research Track
+### Research Track
 
 
 **[Rethinking the Objectives of Extractive Question Answering](/assets/papers/2_Paper.pdf)**<br />Martin Fajcik, Josef Jon and Pavel Smrz
@@ -68,7 +68,7 @@ while non-arxival papers are not be included (but are given opportunity to prese
 **[Simple and Efficient ways to Improve REALM](/assets/papers/24_Paper.pdf)**<br />Vidhisha Balachandran, Ashish Vaswani, Yulia Tsvetkov and Niki Parmar
 
 
-###Non-Arxival Track
+### Non-Arxival Track
 
 
 **Synthetic Target Domain Supervision for Open Retrieval QA**<br />Revanth Gangi Reddy, Bhavani Iyer, Md Arafat Sultan, Rong Zhang, Avirup Sil, Vittorio Castelli, Radu Florian, Salim Roukos<br />*Published at SIGIR 2021*
