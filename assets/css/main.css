@@ -142,13 +142,14 @@ td {
 .footer-icon {
   padding: 0 1rem;
 }
-img[alt="Naver"] {
-  margin-top: -10px;
-  margin-bottom: -10px;
-}
 
+img[alt="Baidu"] {
+  height: 85px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
 img[alt="Facebook"] {
-  padding-left: 20px;
-  padding-bottom: 30px;
+  margin-top: 5px;
+  margin-right: 20px;
+  height: 50px;
 }
-
