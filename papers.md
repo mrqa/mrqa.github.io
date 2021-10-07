@@ -9,6 +9,7 @@ collection: pages_2021
 Following papers are accepted to MRQA 2021.
 Multilingual, Interpretability and Research track papers appear in the proceedings of the workshop,
 while non-archival papers are not be included (but are given opportunity to present in the workshop).
+Papers from EMNLP Findings presented in MRQA are also below.
 
 
 ### Multilingual Track
@@ -86,9 +87,6 @@ while non-archival papers are not be included (but are given opportunity to pres
 **Learning with Instance Bundles for Reading Comprehension**<br />Dheeru Dua, Pradeep Dasigi, Sameer Singh and Matt Gardner<br />*Published at EMNLP 2021*
 
 
-**Can NLI Models Verify QA Systems’ Predictions?**<br />Jifan Chen, Eunsol Choi and Greg Durrett<br />*Published at EMNLP 2021 Findings*
-
-
 **Knowing More About Questions Can Help: Improving Calibration in Question Answering**<br />Shujian Zhang, Chengyue Gong and Eunsol Choi<br />*Published at ACL 2021 Findings*
 
 
@@ -99,6 +97,12 @@ while non-archival papers are not be included (but are given opportunity to pres
 
 
 **ReasonBert: Pre-trained to Reason with Distant Supervision**<br />Xiang Deng, Yu Su, Alyssa Lees, You Wu, Cong Yu and Huan Sun<br />*Published at ACL 2021*
+
+
+### EMNLP Findings
+
+
+**Can NLI Models Verify QA Systems’ Predictions?**<br />Jifan Chen, Eunsol Choi and Greg Durrett<br />*Published at EMNLP 2021 Findings*
 
 
 **Question Answering over Electronic Devices: A New Benchmark Dataset and a Multi-Task Learning based QA Framework**<br />Abhilash Nandy, Soumya Sharma, Shubham Maddhashiya, Kapil Sachdeva, Pawan Goyal and NIloy Ganguly<br />*Published at EMNLP 2021 Findings*
