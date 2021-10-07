@@ -1,7 +1,7 @@
 ---
 layout: main-2021
 title: Organization
-order: 3
+order: 4
 collection: pages_2021
 permalink: /organization
 ---

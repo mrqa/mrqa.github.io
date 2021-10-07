@@ -1,7 +1,7 @@
 ---
 layout: main-2021
 title: Call for Papers
-order: 2
+order: 3
 collection: pages_2021
 permalink: /cfp
 ---
