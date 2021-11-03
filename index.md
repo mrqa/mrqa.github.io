@@ -5,6 +5,7 @@ order: 1
 collection: pages_2021
 ---
 ## Overview
+**Update: We have released [the workshop schedule](https://mrqa.github.io/#program)!**
 [](**We have extended our normal submission deadline to August 12. Please see our [Call for Papers](cfp).**)
 [](**Deadline for the standard submissions has passed. We accept papers published elsewhere for the non-archival track (deadline: September 3). Please submit your work via the [google form](https://docs.google.com/forms/d/e/1FAIpQLSfPOCOr_4UiTVII29dZAL1GXkTFFvueQJa9gLaVK5TKh5R02A/viewform?usp=sf_link).**)
 
@@ -46,23 +47,68 @@ Workshop registration is included in [EMNLP 2021 registration](https://2021.emnl
 - [Jonathan Berant](https://www.cs.tau.ac.il/~joberant/),Tel Aviv University & Allen Institute for AI
 - [Marco Tulio Ribeiro](https://homes.cs.washington.edu/~marcotcr/), Microsoft
 
-## Program (tentative)
+## Program
 The 3rd MRQA workshop will be held virtually on November 10, 2021 from 9AM to 5PM in Punta Cana Time (UTC-4).
 
-* 09:00-09:15 - Opening remark
-* 09:15-09:45 - Invited Talk 1: Reut Tsarfaty
-* 09:45-10:15 - Invited Talk 2: Jon Clark
-* 10:15-10:45 - Invited Talk 3: Yiming Cui
-* 10:45-11:30 - Panel 1: Multilingual QA
-* 11:30-12:30 - Break (Lunch)
-* 12:30-13:10 - Best paper talks
-* 13:10-14:10 - Poster session
-* 14:10-14:30 - Break
-* 14:30-15:00 - Invited Talk 4: Jonathan Berant
-* 15:00-15:30 - Invited Talk 5: Marco Tulio Ribeiro
-* 15:30-16:00 - Invited Talk 6: Hanna Hajishirzi
-* 16:00-16:45 - Panel 2: Interpretability
-* 16:45-17:00 - Closing remark
+<div id="schedule">
+    <ul>
+        <li>
+            09:00-09:15 - Opening remark
+        </li>
+        <li>
+        	09:15-09:45 - Invited Talk 1:
+        	<a href="http://www.tsarfaty.com/" target="_blank">Reut Tsarfaty</a> -- <b>TITLE TODO</b> <button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#reut-card" aria-expanded="false" aria-controls="reut-card">Abstract</button> <div class="collapse" id="reut-card"><div class="card card-body">ABSTRACT TODO</div></div>
+        </li>
+        <li>
+        	09:45-10:15 - Invited Talk 2:
+        	<a href="https://www.linkedin.com/in/jonhclark/" target="_blank">Jon Clark </a> -- <b>Question Answering for All</b> <button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#jon-card" aria-expanded="false" aria-controls="jon-card">Abstract</button> <div class="collapse" id="jon-card"><div class="card card-body">This talk advocates for a user-centric perspective on how to approach multilingual question answering systems. This perspective influences what research questions we pursue, what datasets we built, and ultimately how useful systems built with our methodologies will be to real people. We also discuss phenomena that make multilingual question answering both practically difficult and scientifically interesting including typological diversity, answer scarcity, and little supervised training data.</div></div>
+        </li>
+        <li>
+        	10:15-10:45 - Invited Talk 3:
+        	<a href="http://ymcui.github.io/" target="_blank">Yiming Cui</a> -- <b>Chinese Machine Reading Comprehension and Beyond</b> <button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#yiming-card" aria-expanded="false" aria-controls="yiming-card">Abstract</button> <div class="collapse" id="yiming-card"><div class="card card-body">Machine Reading Comprehension has been widely studied in the context of English datasets. At the same time, it is also important to study non-English dataset and models to get a more comprehensive understanding in how machine understands human languages. In this talk, we will cover three main topics in dealing with non-English MRC scenarios. First, we will talk about the efforts that have been made in Chinese machine reading comprehension field. Next, we will move to multilingual and cross-lingual MRC studies, introducing a series of our work, discussing how these techniques improve the MRC system performance in Chinese and other languages. Lastly, we will try to analyze MRC models in a multilingual way and present our efforts in explainable MRC with new benchmarks and approaches.</div></div>
+        </li>
+        <li>
+        	10:45-11:30 - Panel 1: Multilingual QA with Reut Tsarfaty, Jon Clark, Yiming Cui, <a href="https://www.cs.washington.edu/people/faculty/lsz" target="_blank">Luke Zettlemoyer</a> (University of Washington/Facebook AI Research) and <a href="http://users.umiacs.umd.edu/~jbg/" target="_blank">Jordan Boyd-Graber</a> (University of Maryland)
+        </li>
+        <li>
+        	11:30-12:30 - Break (Lunch)
+        </li>
+        <li>
+        	12:30-13:10 - Best paper talks
+        	<ul style="padding-left: 40px;">
+        		<li>Best paper: Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans, <a href="https://mrqa.github.io/assets/papers/21_Paper.pdf" target="_blank">MFAQ: a Multilingual FAQ Dataset</a></li>
+				<li>Honorable mention #1: Gregory Kell, Iain Marshall, Byron Wallace and Andre Jaun, <a href="https://mrqa.github.io/assets/papers/14_Paper.pdf" target="_blank">What Would it Take to get Biomedical QA Systems into Practice?</a></li>
+				<li>Honorable mention #2: Martin Fajcik, Josef Jon and Pavel Smrz, <a href="https://mrqa.github.io/assets/papers/2_Paper.pdf" target="_blank">Rethinking the Objectives of Extractive Question Answering</a></li>
+			</ul>
+        </li>
+        <li>
+        	13:10-14:10 - Poster session
+        </li>
+        <li>
+        	14:10-14:30 - Break
+        </li>
+        <li>
+        	14:30-15:00 - Invited Talk 4:
+        	<a href="https://www.cs.tau.ac.il/~joberant/" target="_blank">Jonathan Berant</a> -- <b>Is my QA model reasoning? Meaning representations and multi-task training for understanding QA models</b> <button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#joberant-card" aria-expanded="false" aria-controls="joberant-card">Abstract</button> <div class="collapse" id="joberant-card"><div class="card card-body">The discrepancy between the high performance of models on standard benchmarks, and their limitations when manually examined has led to wide interest in better evaluation of natural language understanding models. In this talk, I will discuss using structured meaning representations for automatically generating reasoning-focused "contrast sets" - given a question that requires reasoning over a set of contexts, we automatically generate additional question-answer pairs with minimal perturbations to the reasoning process. We show how this sheds light on the strengths and weaknesses of a wide range of models. In the second part of the talk, I will discuss how one can gain interpretability using multi-task training - by training a single model on a target task and an auxiliary task, we can use the outputs of the auxiliary task for better interpretation of the predictions of the model on the target task.</div></div>
+        </li>
+        <li>
+        	15:00-15:30 - Invited Talk 5:
+        	<a href="https://homes.cs.washington.edu/~marcotcr/" target="_blank">Marco Tulio Ribeiro</a> -- <b>Explanations and counterfactuals</b> <button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#marcotcr-card" aria-expanded="false" aria-controls="marcotcr-card">Abstract</button> <div class="collapse" id="marcotcr-card"><div class="card card-body">In this talk, I will present an overview of explanation methods through the lens of counterfactuals - which counterfactuals are used to create the explanation, how these counterfactuals are summarized, and what counterfactual predictions the explanation allows the user to make. In addition to being a helpful framework overall, I think this view highlights the drawbacks of most explanation methods applied to QA models, as well as potential research directions. Also, there should be fun explanations from a SOTA model trained on SQuAD 2.0.</div></div>
+        </li>
+        <li>
+        	15:30-16:00 - Invited Talk 6:
+        	<a href="https://homes.cs.washington.edu/~hannaneh/" target="_blank">Hanna Hajishirzi</a> -- <b>Knowledge-Rich and Robust Neural Text Comprehension and Reasoning</b> <button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="hanna-card" aria-expanded="false" aria-controls="hanna-card">Abstract</button> <div class="collapse" id="hanna-card"><div class="card card-body">Enormous amounts of ever-changing  knowledge are available online in diverse textual styles and diverse formats. Recent advances in deep learning algorithms and large-scale datasets are spurring progress in many Natural Language Processing (NLP) tasks, including question answering. Nevertheless, these models cannot scale up when task-annotated training data are scarce. This talk presents how to build robust models for textual comprehension and reasoning, and how to systematically evaluate them. First, I present general-purpose models for known tasks such as question answering in English and multiple languages that are robust to small domain shifts. Second, I discuss neuro-symbolic approaches that extend modern deep learning algorithms to elicit knowledge from structured data and language models to achieve strong performance in several NLP tasks. </div></div>
+        </li>
+        <li>
+        	16:00-16:45 - Panel 2: Interpretability with
+        	Jonathan Berant, Marco Tulio Ribeiro, Hanna Hajishirzi, <a href="https://dieuwkehupkes.nl/" target="_blank">Dieuwke Hupkes</a> (Facebook AI Research), <a href="http://www.cs.columbia.edu/~mcollins/" target="_blank">Michael Collins</a> (Google Research/Columbia University) and <a href="https://www.cis.upenn.edu/~danroth/" target="_blank">Dan Roth</a> (University of Pennsylvania)
+        </li>
+        <li>
+        	16:45-17:00 - Closing remark
+        </li>
+     </ul>
+</div>
+
 
 ## Organizing Committee
 - [Adam Fisch](https://people.csail.mit.edu/fisch/), MIT
