@@ -126,6 +126,19 @@ td {
 
 
 /*
+ * Button for abstract and slides
+ */
+.btn-xs {
+  /*padding: 3px 6px;*/
+  padding: 0 6px;
+  height: 20px;
+  font-size: 9pt;
+}
+.card {
+  margin-bottom: 20px;
+}
+
+/*
  * Footer
  */
 
