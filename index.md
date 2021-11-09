@@ -39,7 +39,7 @@ Workshop registration is included in [EMNLP 2021 registration](https://2021.emnl
 
 **Multilingual QA**
 - [Jon Clark](https://www.linkedin.com/in/jonhclark/), Google
-- [Reut Tsarfaty](http://www.tsarfaty.com/), Bar-Ilan University
+- [Reut Tsarfaty](http://www.tsarfaty.com/), Bar-Ilan University & Allen Institute for AI
 - [Yiming Cui](http://ymcui.github.io/), HIT & iFLYTEK Research
 
 **Interpretability**
