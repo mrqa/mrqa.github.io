@@ -115,7 +115,7 @@ The 3rd MRQA workshop will be held virtually on November 10, 2021 from 9AM to 5P
 - [Alon Talmor](https://www.alontalmor.com/), Tel Aviv University
 - [Danqi Chen](https://www.cs.princeton.edu/~danqic/), Princeton University
 - [Eunsol Choi](https://www.cs.utexas.edu/~eunsol/), University of Texas at Austin
-- [Minjoon Seo](https://seominjoon.github.io/), Naver & KAIST
+- [Minjoon Seo](https://seominjoon.github.io/), Facebook & KAIST
 - [Patrick Lewis](https://www.patricklewis.io/), Facebook & University College London
 - [Robin Jia](https://robinjia.github.io/), Facebook & University of Southern California
 - [Sewon Min](https://shmsw25.github.io/), University of Washington
