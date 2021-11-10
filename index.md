@@ -5,6 +5,10 @@ order: 1
 collection: pages_2021
 ---
 ## Overview
+
+**Update [10 Nov 9:05AM AST]** All in-person workshops are experiencing some technical difficulties. We shall start the workshop as soon as possible
+
+
 **Update: We have released [the workshop schedule](https://mrqa.github.io/#program)! The workshop will be hybrid.**
 [](**We have extended our normal submission deadline to August 12. Please see our [Call for Papers](cfp).**)
 [](**Deadline for the standard submissions has passed. We accept papers published elsewhere for the non-archival track (deadline: September 3). Please submit your work via the [google form](https://docs.google.com/forms/d/e/1FAIpQLSfPOCOr_4UiTVII29dZAL1GXkTFFvueQJa9gLaVK5TKh5R02A/viewform?usp=sf_link).**)
