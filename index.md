@@ -10,7 +10,7 @@ Welcome to MRQA 2021!
 
 We'll be taking questions via Sli.do. Please submit your questions to the speakers, and vote on questions (!) at [https://sli.do/mrqa2021](https://sli.do/mrqa2021)
 
-**Update [10 Nov 10:29AM AST]** Thank you for bearing with us! We are running about 30 minutes behind the initial schedule, and **we have updated the schedule accordingly**. The revised schedule is here: [the workshop schedule](https://mrqa.github.io/#program)
+**Update [10 Nov 10:29AM AST]** Thank you for bearing with us! We are running about 30 minutes behind the initial schedule, and **we have updated the schedule accordingly**. The revised schedule is [here](https://mrqa.github.io/#program)
 
 
 **Update: We have released [the workshop schedule](https://mrqa.github.io/#program)! The workshop will be hybrid.**
