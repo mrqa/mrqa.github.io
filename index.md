@@ -10,8 +10,7 @@ Welcome to MRQA 2021!
 
 We'll be taking questions via Sli.do. Please submit your questions to the speakers, and vote on questions (!) at [https://sli.do/mrqa2021](https://sli.do/mrqa2021)
 
-**Update [10 Nov 10:29AM AST]** Thank you for bearing with us! We are running about 30 minutes behind the initial schedule, and **we have updated the schedule accordingly**. The revised schedule is [here](https://mrqa.github.io/#program)
-
+**Update [10 Nov 12:20PM AST]** WE hope you enjoyed this morning's talks and Panel! We'd like to one again thank our speakers and panellists for joining us. We are now back on schedule! We're looking forward to the best paper talks, starting in 10 minutes! The schedule is [here](https://mrqa.github.io/#program)
 
 **Update: We have released [the workshop schedule](https://mrqa.github.io/#program)! The workshop will be hybrid.**
 [](**We have extended our normal submission deadline to August 12. Please see our [Call for Papers](cfp).**)
