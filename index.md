@@ -10,7 +10,7 @@ Welcome to MRQA 2021!
 
 We'll be taking questions via Sli.do. Please submit your questions to the speakers, and vote on questions (!) at [https://sli.do/mrqa2021](https://sli.do/mrqa2021)
 
-**Update [10 Nov 1:10PM AST]** Please join now for our Poster Session in GatherTown.io. Come and talk to our many great accepted paper authors. Invited Talks will resume at 14:30 AST, with Jonathan Berant! The schedule is [here](https://mrqa.github.io/#program)
+**Update [10 Nov 1:10PM AST]** We hope you enjoyed the poser session. We're now moving to the second session, on interpretability, starting with a talk from the wonderful Jonathan Berant. Schedule is [here](https://mrqa.github.io/#program)
 
 **Update: We have released [the workshop schedule](https://mrqa.github.io/#program)! The workshop will be hybrid.**
 [](**We have extended our normal submission deadline to August 12. Please see our [Call for Papers](cfp).**)
