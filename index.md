@@ -6,8 +6,11 @@ collection: pages_2021
 ---
 ## Overview
 
-**Update [10 Nov 9:05AM AST]** All in-person workshops are experiencing some technical difficulties. We shall start the workshop as soon as possible
+Welcome to MRQA 2021!
 
+We'll be taking questions via Sli.do. Please submit your questions to the speakers, and vote on questions (!) at [https://sli.do/mrqa2021](https://sli.do/mrqa2021)
+
+**Update [10 Nov 9:375AM AST]** Thank you for bearing with us! After a slight delay, we're back underway, starting with the wodnerful Reut Tsarfaty. We'll update the revised schedule shortly.
 
 **Update: We have released [the workshop schedule](https://mrqa.github.io/#program)! The workshop will be hybrid.**
 [](**We have extended our normal submission deadline to August 12. Please see our [Call for Papers](cfp).**)
