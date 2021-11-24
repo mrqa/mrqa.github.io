@@ -103,8 +103,9 @@ The 3rd MRQA workshop will be held virtually on November 10, 2021 from 9AM to 5P
         </li>
         <li>
         	14:30-15:00 - Invited Talk 4:
-        	<a href="https://www.cs.tau.ac.il/~joberant/" target="_blank">Jonathan Berant</a> -- <b>Is my QA model reasoning? Meaning representations and multi-task training for understanding QA models</b> <em>(In-person)</em> <button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#joberant-card" aria-expanded="false" aria-controls="joberant-card">Abstract</button> <div class="collapse" id="joberant-card">
+        	<a href="https://www.cs.tau.ac.il/~joberant/" target="_blank">Jonathan Berant</a> -- <b>Is my QA model reasoning? Meaning representations and multi-task training for understanding QA models</b> <em>(In-person)</em> <button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#joberant-card" aria-expanded="false" aria-controls="joberant-card">Abstract</button>
             <a href="https://drive.google.com/file/d/1zKzV-GCQgHvF_Ja5bSKCYQNBxc0kUvCv/view?usp=sharing" class="btn btn-outline-info btn-xs">Video</a>
+            <div class="collapse" id="joberant-card">
             <div class="card card-body">The discrepancy between the high performance of models on standard benchmarks, and their limitations when manually examined has led to wide interest in better evaluation of natural language understanding models. In this talk, I will discuss using structured meaning representations for automatically generating reasoning-focused "contrast sets" - given a question that requires reasoning over a set of contexts, we automatically generate additional question-answer pairs with minimal perturbations to the reasoning process. We show how this sheds light on the strengths and weaknesses of a wide range of models. In the second part of the talk, I will discuss how one can gain interpretability using multi-task training - by training a single model on a target task and an auxiliary task, we can use the outputs of the auxiliary task for better interpretation of the predictions of the model on the target task.</div></div>
         </li>
         <li>
@@ -122,7 +123,7 @@ The 3rd MRQA workshop will be held virtually on November 10, 2021 from 9AM to 5P
         <li>
         	16:00-16:45 - Panel 2: Interpretability with
         	Jonathan Berant, Marco Tulio Ribeiro, Hanna Hajishirzi, <a href="https://dieuwkehupkes.nl/" target="_blank">Dieuwke Hupkes</a> (Facebook AI Research), <a href="http://www.cs.columbia.edu/~mcollins/" target="_blank">Michael Collins</a> (Google Research/Columbia University) and <a href="https://www.cis.upenn.edu/~danroth/" target="_blank">Dan Roth</a> (University of Pennsylvania)
-            <a href="https://drive.google.com/file/d/1tte7AmWyU55ne0CxPopeLQWRjwKu623K/view?usp=sharing">Video</a>
+            <a href="https://drive.google.com/file/d/1tte7AmWyU55ne0CxPopeLQWRjwKu623K/view?usp=sharing" class="btn btn-outline-info btn-xs">Video</a>
         </li>
         <li>
         	16:45-17:00 - Closing remark
