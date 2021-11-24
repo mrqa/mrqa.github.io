@@ -5,7 +5,14 @@ order: 1
 collection: pages_2021
 ---
 ## Overview
-**Update: Thank you everyone for attending the workshop! Recorded talks and panels are now available [here](https://mrqa.github.io/#program).**
+Welcome to MRQA 2021!
+
+We'll be taking questions via Sli.do. Please submit your questions to the speakers, and vote on questions (!) at [https://sli.do/mrqa2021](https://sli.do/mrqa2021)
+
+**Update [24 Nov]: Thank you everyone for attending the workshop! Recorded talks and panels are now available [here](https://mrqa.github.io/#program).**
+
+**Update [10 Nov 4:00PM AST]** We'd like to thank our brilliant speakers! We'll be closing out with our second Panel, on interpretability, starting in a few minutes
+
 **Update: We have released [the workshop schedule](https://mrqa.github.io/#program)! The workshop will be hybrid.**
 [](**We have extended our normal submission deadline to August 12. Please see our [Call for Papers](cfp).**)
 [](**Deadline for the standard submissions has passed. We accept papers published elsewhere for the non-archival track (deadline: September 3). Please submit your work via the [google form](https://docs.google.com/forms/d/e/1FAIpQLSfPOCOr_4UiTVII29dZAL1GXkTFFvueQJa9gLaVK5TKh5R02A/viewform?usp=sf_link).**)
@@ -54,31 +61,31 @@ The 3rd MRQA workshop will be held virtually on November 10, 2021 from 9AM to 5P
 <div id="schedule">
     <ul>
         <li>
-            09:00-09:15 - Opening remark
+            09:00-09:45 - Opening remark (a delayed start)
         </li>
         <li>
-        	09:15-09:45 - Invited Talk 1:
+        	09:45-10:15 - Invited Talk 1:
         	<a href="http://www.tsarfaty.com/" target="_blank">Reut Tsarfaty</a> -- <b>Comprehensive and Inclusive Text Understanding</b> <em>(In-person)</em> <button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#reut-card" aria-expanded="false" aria-controls="reut-card">Abstract</button> <div class="collapse" id="reut-card">
             <div class="card card-body">Recent years have seen an all-times-peek in the performance of neural models on tasks that require natural language understanding, such as Question Answering (QA) and Natural language Inference. So much so that some recent media reports have quoted the "human" or "superhuman" performance of neural models on natural language understanding (NLU). However, in the face of such reports two questions emerge, namely: do these tasks indeed resemble human-like understanding? And, are these reports attainable in languages that are different from English?  In this talk I reflect on both of these questions, and discuss how we might want to proceed to make NLU more comprehensive and inclusive. The first work I present proposes a new task called Text-based NP Enrichment, in which we aim to predict the complete set of (NP, preposition, NP) relations that hold true in a text.  We present a novel and large-scale benchmark for the task that reflects understanding of non-trivial linguistic phenomena, both explicit and implicit, bypassing some common pitfalls of QA setups. We next present results from a completely different task, Sentence-Level Morphological Reinflection, which shed light on the difficulty to extract semantic arguments or answers from within morphologically-complex tokens. We conclude the talk by putting forward a list of desiderata for NLU assessment that would be both comprehensive and inclusive, and contemplate on tasks that could match these criteria.</div></div>
         </li>
         <li>
-        	09:45-10:15 - Invited Talk 2:
+        	10:15-10:45 - Invited Talk 2:
         	<a href="https://www.linkedin.com/in/jonhclark/" target="_blank">Jon Clark </a> -- <b>Question Answering for All</b> <em>(Virtual)</em> <button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#jon-card" aria-expanded="false" aria-controls="jon-card">Abstract</button>
             <a href="https://drive.google.com/file/d/13rtG6O8aSWan_uTV6eY1B2igqQO0j3nR/view?usp=sharing" class="btn btn-outline-info btn-xs">Video</a>
             <div class="collapse" id="jon-card"><div class="card card-body">This talk advocates for a user-centric perspective on how to approach multilingual question answering systems. This perspective influences what research questions we pursue, what datasets we built, and ultimately how useful systems built with our methodologies will be to real people. We also discuss phenomena that make multilingual question answering both practically difficult and scientifically interesting including typological diversity, answer scarcity, and little supervised training data.</div></div>
         </li>
         <li>
-        	10:15-10:45 - Invited Talk 3:
+        	10:45-11:15 - Invited Talk 3:
         	<a href="http://ymcui.github.io/" target="_blank">Yiming Cui</a> -- <b>Chinese Machine Reading Comprehension and Beyond</b> <em>(Virtual)</em> <button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#yiming-card" aria-expanded="false" aria-controls="yiming-card">Abstract</button> <div class="collapse" id="yiming-card">
             <a href="https://drive.google.com/file/d/11H1pYpmxuUyq31dLjMpJxX5D6_9TM8Ja/view?usp=sharing" class="btn btn-outline-info btn-xs">Video</a>
             <div class="card card-body">Machine Reading Comprehension has been widely studied in the context of English datasets. At the same time, it is also important to study non-English dataset and models to get a more comprehensive understanding in how machine understands human languages. In this talk, we will cover three main topics in dealing with non-English MRC scenarios. First, we will talk about the efforts that have been made in Chinese machine reading comprehension field. Next, we will move to multilingual and cross-lingual MRC studies, introducing a series of our work, discussing how these techniques improve the MRC system performance in Chinese and other languages. Lastly, we will try to analyze MRC models in a multilingual way and present our efforts in explainable MRC with new benchmarks and approaches.</div></div>
         </li>
         <li>
-        	10:45-11:30 - Panel 1: Multilingual QA with Reut Tsarfaty, Jon Clark, Yiming Cui, <a href="https://www.cs.washington.edu/people/faculty/lsz" target="_blank">Luke Zettlemoyer</a> (University of Washington/Facebook AI Research) and <a href="http://users.umiacs.umd.edu/~jbg/" target="_blank">Jordan Boyd-Graber</a> (University of Maryland)
+        	11:15-12:00 - Panel 1: Multilingual QA with Reut Tsarfaty, Jon Clark, Yiming Cui, <a href="https://www.cs.washington.edu/people/faculty/lsz" target="_blank">Luke Zettlemoyer</a> (University of Washington/Facebook AI Research) and <a href="http://users.umiacs.umd.edu/~jbg/" target="_blank">Jordan Boyd-Graber</a> (University of Maryland)
             <a href="https://drive.google.com/file/d/1ghj-OnzfzPFJBK9SIRoh17jqMN9WZthB/view?usp=sharing" class="btn btn-outline-info btn-xs">Video</a>
         </li>
         <li>
-        	11:30-12:30 - Break (Lunch)
+        	11:45-12:30 - Break (Lunch)
         </li>
         <li>
         	12:30-13:10 - Best paper talks <em>(Virtual)</em>
